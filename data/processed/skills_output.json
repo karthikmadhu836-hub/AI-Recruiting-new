@@ -1,0 +1,18 @@
+{
+    "skills": [
+        "python",
+        "sql",
+        "machine learning",
+        "data analysis",
+        "excel",
+        "power bi"
+    ],
+    "confidence": {
+        "python": 0.3333333333333333,
+        "sql": 0.3333333333333333,
+        "machine learning": 0.6666666666666666,
+        "data analysis": 0.6666666666666666,
+        "excel": 0.3333333333333333,
+        "power bi": 0.3333333333333333
+    }
+}

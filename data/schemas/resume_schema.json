@@ -1,0 +1,10 @@
+{
+  "candidate_id": "C001",
+  "name": "John Doe",
+  "skills": [
+    {"name": "Python", "level": "Advanced"}
+  ],
+  "education": [],
+  "experience": [],
+  "certifications": []
+}

@@ -1,0 +1,722 @@
+2026-04-18 10:57:09.742 | INFO     | app.main:home:9 - System started
+2026-04-18 11:59:53.868 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/sample_resume.pdf'
+2026-04-18 12:01:59.293 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 12:01:59.295 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 12:54:22.031 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd1.txt
+2026-04-18 12:54:22.032 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd10.txt
+2026-04-18 12:54:22.033 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd11.txt
+2026-04-18 12:54:22.034 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd12.txt
+2026-04-18 12:54:22.035 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd13.txt
+2026-04-18 12:54:22.036 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd14.txt
+2026-04-18 12:54:22.036 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd15.txt
+2026-04-18 12:54:22.037 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd16.txt
+2026-04-18 12:54:22.037 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd17.txt
+2026-04-18 12:54:22.038 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd18.txt
+2026-04-18 12:54:22.039 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd19.txt
+2026-04-18 12:54:22.040 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd2.txt
+2026-04-18 12:54:22.041 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd20.txt
+2026-04-18 12:54:22.041 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd21.txt
+2026-04-18 12:54:22.042 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd22.txt
+2026-04-18 12:54:22.042 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd23.txt
+2026-04-18 12:54:22.043 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd24.txt
+2026-04-18 12:54:22.044 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd25.txt
+2026-04-18 12:54:22.044 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd26.txt
+2026-04-18 12:54:22.045 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd27.txt
+2026-04-18 12:54:22.046 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd28.txt
+2026-04-18 12:54:22.046 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd29.txt
+2026-04-18 12:54:22.047 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd3.txt
+2026-04-18 12:54:22.048 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd30.txt
+2026-04-18 12:54:22.049 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd31.txt
+2026-04-18 12:54:22.050 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd32.txt
+2026-04-18 12:54:22.051 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd33.txt
+2026-04-18 12:54:22.052 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd34.txt
+2026-04-18 12:54:22.053 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd35.txt
+2026-04-18 12:54:22.053 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd36.txt
+2026-04-18 12:54:22.054 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd37.txt
+2026-04-18 12:54:22.056 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd38.txt
+2026-04-18 12:54:22.057 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd39.txt
+2026-04-18 12:54:22.057 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd4.txt
+2026-04-18 12:54:22.058 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd40.txt
+2026-04-18 12:54:22.059 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd41.txt
+2026-04-18 12:54:22.060 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd42.txt
+2026-04-18 12:54:22.061 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd43.txt
+2026-04-18 12:54:22.061 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd44.txt
+2026-04-18 12:54:22.062 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd45.txt
+2026-04-18 12:54:22.064 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd46.txt
+2026-04-18 12:54:22.065 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd47.txt
+2026-04-18 12:54:22.065 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd48.txt
+2026-04-18 12:54:22.066 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd49.txt
+2026-04-18 12:54:22.067 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd5.txt
+2026-04-18 12:54:22.068 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd50.txt
+2026-04-18 12:54:22.068 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd51.txt
+2026-04-18 12:54:22.069 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd52.txt
+2026-04-18 12:54:22.070 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd53.txt
+2026-04-18 12:54:22.071 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd54.txt
+2026-04-18 12:54:22.072 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd55.txt
+2026-04-18 12:54:22.073 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd56.txt
+2026-04-18 12:54:22.074 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd57.txt
+2026-04-18 12:54:22.074 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd58.txt
+2026-04-18 12:54:22.075 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd59.txt
+2026-04-18 12:54:22.076 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd6.txt
+2026-04-18 12:54:22.077 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd60.txt
+2026-04-18 12:54:22.078 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd61.txt
+2026-04-18 12:54:22.079 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd62.txt
+2026-04-18 12:54:22.080 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd63.txt
+2026-04-18 12:54:22.081 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd64.txt
+2026-04-18 12:54:22.081 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd65.txt
+2026-04-18 12:54:22.082 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd7.txt
+2026-04-18 12:54:22.083 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd8.txt
+2026-04-18 12:54:22.084 | INFO     | parsers.jd_parser:parse_jd:66 - Parsed JD: data/job_descriptions\jd9.txt
+2026-04-18 13:12:44.719 | ERROR    | parsers.resume_reader:read_docx:27 - Error reading DOCX: Package not found at 'data/sample_resume.docx'
+2026-04-18 13:12:44.720 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 13:14:32.967 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 13:14:32.968 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 13:14:32.989 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 13:14:32.990 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 13:33:54.564 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 13:33:54.564 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 14:11:14.852 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 14:11:14.853 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 14:11:14.875 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:11:14.875 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 14:11:14.896 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:11:14.897 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 14:12:16.846 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:12:16.847 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 14:19:15.620 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 14:19:15.621 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 14:19:15.643 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:19:15.643 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 14:19:15.664 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:19:15.665 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 14:19:15.685 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:19:15.685 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 14:20:19.138 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:20:19.139 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 14:53:19.268 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:53:19.269 | INFO     | parsers.education_parser:parse_education:64 - Education data extracted successfully
+2026-04-18 14:53:19.291 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 14:53:19.292 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 14:53:19.312 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:53:19.313 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 14:53:19.334 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:53:19.335 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 14:53:19.356 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:53:19.356 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 14:53:56.087 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 14:53:56.088 | INFO     | parsers.education_parser:parse_education:64 - Education data extracted successfully
+2026-04-18 15:03:41.465 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:03:41.465 | INFO     | parsers.education_parser:parse_education:64 - Education data extracted successfully
+2026-04-18 15:03:41.486 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 15:03:41.487 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 15:03:41.507 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:03:41.507 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 15:03:41.527 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:03:41.842 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:03:41.843 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 15:03:41.863 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:03:41.864 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 15:06:14.887 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:06:14.888 | INFO     | parsers.education_parser:parse_education:64 - Education data extracted successfully
+2026-04-18 15:06:14.921 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 15:06:14.922 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 15:06:14.944 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:06:14.945 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 15:06:14.965 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:06:14.989 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:06:14.989 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 15:06:15.010 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:06:15.010 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 15:08:14.777 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:08:14.778 | INFO     | parsers.education_parser:parse_education:64 - Education data extracted successfully
+2026-04-18 15:08:14.799 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data\sample_resume.docx
+2026-04-18 15:08:14.800 | INFO     | parsers.save_output:save_text:15 - Saved cleaned resume: data/processed\output_resume.txt
+2026-04-18 15:08:14.821 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:08:14.821 | INFO     | parsers.section_classifier:classify_sections:49 - Sections classified successfully
+2026-04-18 15:08:14.841 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:08:14.864 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:08:14.865 | INFO     | parsers.experience_parser:parse_experience:74 - Experience parsed successfully
+2026-04-18 15:08:14.888 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:08:14.888 | INFO     | parsers.skill_extractor:extract_skills:47 - Skills extracted successfully
+2026-04-18 15:11:00.839 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-18 15:13:37.754 | INFO     | parsers.resume_reader:read_docx:24 - DOCX read successfully: data/sample_resume.docx
+2026-04-19 11:32:10.083 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_1.pdf
+2026-04-19 11:32:10.223 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_2.pdf
+2026-04-19 11:32:10.472 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_3.pdf
+2026-04-19 11:32:10.746 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_4.pdf
+2026-04-19 11:32:11.013 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_5.pdf
+2026-04-19 11:32:11.361 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_6.pdf
+2026-04-19 11:32:11.503 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_7.pdf
+2026-04-19 11:32:11.998 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/demo/resumes\sample_resume_8.pdf
+2026-04-19 11:49:19.472 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_1.pdf
+2026-04-19 11:49:19.861 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_10.pdf
+2026-04-19 11:49:20.218 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_100.pdf
+2026-04-19 11:49:20.910 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_101.pdf
+2026-04-19 11:49:21.276 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_102.pdf
+2026-04-19 11:49:21.463 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_103.pdf
+2026-04-19 11:49:21.848 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_104.pdf
+2026-04-19 11:49:22.180 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_105.pdf
+2026-04-19 11:49:22.554 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_106.pdf
+2026-04-19 11:49:22.764 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_107.pdf
+2026-04-19 11:49:23.063 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_108.pdf
+2026-04-19 11:49:23.662 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_109.pdf
+2026-04-19 11:49:24.183 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_11.pdf
+2026-04-19 11:49:24.656 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_110.pdf
+2026-04-19 11:49:25.217 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_111.pdf
+2026-04-19 11:49:25.549 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_112.pdf
+2026-04-19 11:49:25.985 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_113.pdf
+2026-04-19 11:49:26.566 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_114.pdf
+2026-04-19 11:49:27.039 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_115.pdf
+2026-04-19 11:49:27.618 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_12.pdf
+2026-04-19 11:49:27.989 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_13.pdf
+2026-04-19 11:49:28.335 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_14.pdf
+2026-04-19 11:49:28.685 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_15.pdf
+2026-04-19 11:49:29.055 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_16.pdf
+2026-04-19 11:49:29.372 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_17.pdf
+2026-04-19 11:49:29.723 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_18.pdf
+2026-04-19 11:49:30.197 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_19.pdf
+2026-04-19 11:49:30.583 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_2.pdf
+2026-04-19 11:49:30.944 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_20.pdf
+2026-04-19 11:49:31.415 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_21.pdf
+2026-04-19 11:49:31.839 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_22.pdf
+2026-04-19 11:49:32.191 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_23.pdf
+2026-04-19 11:49:32.820 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_24.pdf
+2026-04-19 11:49:33.259 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_25.pdf
+2026-04-19 11:49:33.653 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_26.pdf
+2026-04-19 11:49:34.015 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_27.pdf
+2026-04-19 11:49:34.363 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_28.pdf
+2026-04-19 11:49:34.739 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_29.pdf
+2026-04-19 11:49:35.088 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_3.pdf
+2026-04-19 11:49:35.420 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_30.pdf
+2026-04-19 11:49:35.731 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_31.pdf
+2026-04-19 11:49:36.077 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_32.pdf
+2026-04-19 11:49:36.554 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_33.pdf
+2026-04-19 11:49:36.749 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_34.pdf
+2026-04-19 11:49:36.923 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_35.pdf
+2026-04-19 11:49:37.478 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_36.pdf
+2026-04-19 11:49:38.209 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_37.pdf
+2026-04-19 11:49:38.607 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_38.pdf
+2026-04-19 11:49:38.967 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_39.pdf
+2026-04-19 11:49:39.346 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_4.pdf
+2026-04-19 11:49:39.725 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_40.pdf
+2026-04-19 11:49:40.037 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_41.pdf
+2026-04-19 11:49:40.392 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_42.pdf
+2026-04-19 11:49:40.919 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_43.pdf
+2026-04-19 11:49:41.338 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_44.pdf
+2026-04-19 11:49:41.672 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_45.pdf
+2026-04-19 11:49:42.147 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_46.pdf
+2026-04-19 11:49:42.467 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_47.pdf
+2026-04-19 11:49:42.945 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_48.pdf
+2026-04-19 11:49:43.385 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_49.pdf
+2026-04-19 11:49:43.810 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_5.pdf
+2026-04-19 11:49:44.196 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_50.pdf
+2026-04-19 11:49:44.541 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_51.pdf
+2026-04-19 11:49:44.920 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_52.pdf
+2026-04-19 11:49:45.339 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_53.pdf
+2026-04-19 11:49:46.121 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_54.pdf
+2026-04-19 11:49:46.637 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_55.pdf
+2026-04-19 11:49:47.058 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_56.pdf
+2026-04-19 11:49:47.395 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_57.pdf
+2026-04-19 11:49:47.760 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_58.pdf
+2026-04-19 11:49:48.265 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_59.pdf
+2026-04-19 11:49:48.723 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_6.pdf
+2026-04-19 11:49:48.963 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_60.pdf
+2026-04-19 11:49:49.158 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_61.pdf
+2026-04-19 11:49:49.525 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_62.pdf
+2026-04-19 11:49:49.956 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_63.pdf
+2026-04-19 11:49:50.357 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_64.pdf
+2026-04-19 11:49:51.046 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_65.pdf
+2026-04-19 11:49:51.627 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_66.pdf
+2026-04-19 11:49:52.215 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_67.pdf
+2026-04-19 11:49:52.649 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_68.pdf
+2026-04-19 11:49:52.971 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_69.pdf
+2026-04-19 11:49:53.206 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_7.pdf
+2026-04-19 11:49:53.681 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_70.pdf
+2026-04-19 11:49:54.185 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_71.pdf
+2026-04-19 11:49:54.608 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_72.pdf
+2026-04-19 11:49:54.959 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_73.pdf
+2026-04-19 11:49:55.527 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_74.pdf
+2026-04-19 11:49:55.901 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_75.pdf
+2026-04-19 11:49:56.289 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_76.pdf
+2026-04-19 11:49:56.731 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_77.pdf
+2026-04-19 11:49:56.959 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_78.pdf
+2026-04-19 11:49:57.365 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_79.pdf
+2026-04-19 11:49:57.971 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_8.pdf
+2026-04-19 11:49:58.290 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_80.pdf
+2026-04-19 11:49:58.448 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_81.pdf
+2026-04-19 11:49:58.635 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_82.pdf
+2026-04-19 11:49:58.979 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_83.pdf
+2026-04-19 11:49:59.357 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_84.pdf
+2026-04-19 11:49:59.743 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_85.pdf
+2026-04-19 11:50:00.252 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_86.pdf
+2026-04-19 11:50:00.902 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_87.pdf
+2026-04-19 11:50:01.152 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_88.pdf
+2026-04-19 11:50:01.534 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_89.pdf
+2026-04-19 11:50:01.968 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_9.pdf
+2026-04-19 11:50:02.435 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_90.pdf
+2026-04-19 11:50:02.821 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_91.pdf
+2026-04-19 11:50:03.209 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_92.pdf
+2026-04-19 11:50:03.542 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_93.pdf
+2026-04-19 11:50:03.927 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_94.pdf
+2026-04-19 11:50:04.365 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_95.pdf
+2026-04-19 11:50:04.702 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_96.pdf
+2026-04-19 11:50:05.078 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_97.pdf
+2026-04-19 11:50:05.516 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_98.pdf
+2026-04-19 11:50:05.927 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_99.pdf
+2026-04-19 13:15:05.663 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_1.pdf
+2026-04-19 13:15:06.007 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_10.pdf
+2026-04-19 13:15:06.357 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_100.pdf
+2026-04-19 13:15:06.997 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_101.pdf
+2026-04-19 13:15:07.296 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_102.pdf
+2026-04-19 13:15:07.484 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_103.pdf
+2026-04-19 13:15:07.865 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_104.pdf
+2026-04-19 13:15:08.157 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_105.pdf
+2026-04-19 13:15:08.514 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_106.pdf
+2026-04-19 13:15:08.699 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_107.pdf
+2026-04-19 13:15:08.986 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_108.pdf
+2026-04-19 13:15:09.544 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_109.pdf
+2026-04-19 13:15:10.000 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_11.pdf
+2026-04-19 13:15:10.480 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_110.pdf
+2026-04-19 13:15:10.947 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_111.pdf
+2026-04-19 13:15:11.244 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_112.pdf
+2026-04-19 13:15:11.662 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_113.pdf
+2026-04-19 13:15:12.216 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_114.pdf
+2026-04-19 13:15:12.613 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_115.pdf
+2026-04-19 13:15:13.122 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_12.pdf
+2026-04-19 13:15:13.441 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_13.pdf
+2026-04-19 13:15:13.759 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_14.pdf
+2026-04-19 13:15:14.083 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_15.pdf
+2026-04-19 13:15:14.432 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_16.pdf
+2026-04-19 13:15:14.720 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_17.pdf
+2026-04-19 13:15:15.048 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_18.pdf
+2026-04-19 13:15:15.506 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_19.pdf
+2026-04-19 13:15:15.859 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_2.pdf
+2026-04-19 13:15:16.188 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_20.pdf
+2026-04-19 13:15:16.667 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_21.pdf
+2026-04-19 13:15:17.028 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_22.pdf
+2026-04-19 13:15:17.346 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_23.pdf
+2026-04-19 13:15:17.953 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_24.pdf
+2026-04-19 13:15:18.360 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_25.pdf
+2026-04-19 13:15:18.704 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_26.pdf
+2026-04-19 13:15:19.030 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_27.pdf
+2026-04-19 13:15:19.346 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_28.pdf
+2026-04-19 13:15:19.695 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_29.pdf
+2026-04-19 13:15:20.023 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_3.pdf
+2026-04-19 13:15:20.326 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_30.pdf
+2026-04-19 13:15:20.611 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_31.pdf
+2026-04-19 13:15:20.929 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_32.pdf
+2026-04-19 13:15:21.379 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_33.pdf
+2026-04-19 13:15:21.533 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_34.pdf
+2026-04-19 13:15:21.701 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_35.pdf
+2026-04-19 13:15:22.252 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_36.pdf
+2026-04-19 13:15:22.946 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_37.pdf
+2026-04-19 13:15:23.270 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_38.pdf
+2026-04-19 13:15:23.591 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_39.pdf
+2026-04-19 13:15:23.932 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_4.pdf
+2026-04-19 13:15:24.282 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_40.pdf
+2026-04-19 13:15:24.584 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_41.pdf
+2026-04-19 13:15:24.883 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_42.pdf
+2026-04-19 13:15:25.381 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_43.pdf
+2026-04-19 13:15:25.761 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_44.pdf
+2026-04-19 13:15:26.068 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_45.pdf
+2026-04-19 13:15:26.498 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_46.pdf
+2026-04-19 13:15:26.768 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_47.pdf
+2026-04-19 13:15:27.211 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_48.pdf
+2026-04-19 13:15:27.610 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_49.pdf
+2026-04-19 13:15:27.934 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_5.pdf
+2026-04-19 13:15:28.290 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_50.pdf
+2026-04-19 13:15:28.623 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_51.pdf
+2026-04-19 13:15:29.001 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_52.pdf
+2026-04-19 13:15:29.315 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_53.pdf
+2026-04-19 13:15:30.059 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_54.pdf
+2026-04-19 13:15:30.501 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_55.pdf
+2026-04-19 13:15:30.845 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_56.pdf
+2026-04-19 13:15:31.156 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_57.pdf
+2026-04-19 13:15:31.491 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_58.pdf
+2026-04-19 13:15:31.966 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_59.pdf
+2026-04-19 13:15:32.388 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_6.pdf
+2026-04-19 13:15:32.581 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_60.pdf
+2026-04-19 13:15:32.763 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_61.pdf
+2026-04-19 13:15:33.116 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_62.pdf
+2026-04-19 13:15:33.522 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_63.pdf
+2026-04-19 13:15:33.887 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_64.pdf
+2026-04-19 13:15:34.537 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_65.pdf
+2026-04-19 13:15:35.016 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_66.pdf
+2026-04-19 13:15:35.567 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_67.pdf
+2026-04-19 13:15:35.956 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_68.pdf
+2026-04-19 13:15:36.235 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_69.pdf
+2026-04-19 13:15:36.447 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_7.pdf
+2026-04-19 13:15:36.901 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_70.pdf
+2026-04-19 13:15:37.353 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_71.pdf
+2026-04-19 13:15:37.740 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_72.pdf
+2026-04-19 13:15:38.045 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_73.pdf
+2026-04-19 13:15:38.589 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_74.pdf
+2026-04-19 13:15:38.900 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_75.pdf
+2026-04-19 13:15:39.266 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_76.pdf
+2026-04-19 13:15:39.671 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_77.pdf
+2026-04-19 13:15:39.865 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_78.pdf
+2026-04-19 13:15:40.263 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_79.pdf
+2026-04-19 13:15:40.859 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_8.pdf
+2026-04-19 13:15:41.074 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_80.pdf
+2026-04-19 13:15:41.216 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_81.pdf
+2026-04-19 13:15:41.392 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_82.pdf
+2026-04-19 13:15:41.722 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_83.pdf
+2026-04-19 13:15:42.069 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_84.pdf
+2026-04-19 13:15:42.419 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_85.pdf
+2026-04-19 13:15:42.905 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_86.pdf
+2026-04-19 13:15:43.504 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_87.pdf
+2026-04-19 13:15:43.695 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_88.pdf
+2026-04-19 13:15:44.065 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_89.pdf
+2026-04-19 13:15:44.455 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_9.pdf
+2026-04-19 13:15:44.887 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_90.pdf
+2026-04-19 13:15:45.238 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_91.pdf
+2026-04-19 13:15:45.597 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_92.pdf
+2026-04-19 13:15:45.902 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_93.pdf
+2026-04-19 13:15:46.265 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_94.pdf
+2026-04-19 13:15:46.685 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_95.pdf
+2026-04-19 13:15:46.986 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_96.pdf
+2026-04-19 13:15:47.333 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_97.pdf
+2026-04-19 13:15:47.750 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_98.pdf
+2026-04-19 13:15:48.135 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_99.pdf
+2026-04-19 17:23:27.462 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_1.pdf
+2026-04-19 17:23:27.801 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_10.pdf
+2026-04-19 17:23:28.127 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_100.pdf
+2026-04-19 17:23:28.773 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_101.pdf
+2026-04-19 17:23:29.067 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_102.pdf
+2026-04-19 17:23:29.244 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_103.pdf
+2026-04-19 17:23:29.620 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_104.pdf
+2026-04-19 17:23:29.908 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_105.pdf
+2026-04-19 17:23:30.266 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_106.pdf
+2026-04-19 17:23:30.458 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_107.pdf
+2026-04-19 17:23:30.744 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_108.pdf
+2026-04-19 17:23:31.305 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_109.pdf
+2026-04-19 17:23:31.756 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_11.pdf
+2026-04-19 17:23:32.181 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_110.pdf
+2026-04-19 17:23:32.680 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_111.pdf
+2026-04-19 17:23:32.966 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_112.pdf
+2026-04-19 17:23:33.400 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_113.pdf
+2026-04-19 17:23:33.934 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_114.pdf
+2026-04-19 17:23:34.340 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_115.pdf
+2026-04-19 17:23:34.868 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_12.pdf
+2026-04-19 17:23:35.188 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_13.pdf
+2026-04-19 17:23:35.508 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_14.pdf
+2026-04-19 17:23:35.831 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_15.pdf
+2026-04-19 17:23:36.176 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_16.pdf
+2026-04-19 17:23:36.463 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_17.pdf
+2026-04-19 17:23:36.789 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_18.pdf
+2026-04-19 17:23:37.243 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_19.pdf
+2026-04-19 17:23:37.597 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_2.pdf
+2026-04-19 17:23:37.924 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_20.pdf
+2026-04-19 17:23:38.364 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_21.pdf
+2026-04-19 17:23:38.743 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_22.pdf
+2026-04-19 17:23:39.055 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_23.pdf
+2026-04-19 17:23:39.661 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_24.pdf
+2026-04-19 17:23:40.040 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_25.pdf
+2026-04-19 17:23:40.399 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_26.pdf
+2026-04-19 17:23:40.722 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_27.pdf
+2026-04-19 17:23:41.032 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_28.pdf
+2026-04-19 17:23:41.374 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_29.pdf
+2026-04-19 17:23:41.693 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_3.pdf
+2026-04-19 17:23:41.992 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_30.pdf
+2026-04-19 17:23:42.276 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_31.pdf
+2026-04-19 17:23:42.591 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_32.pdf
+2026-04-19 17:23:43.035 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_33.pdf
+2026-04-19 17:23:43.188 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_34.pdf
+2026-04-19 17:23:43.356 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_35.pdf
+2026-04-19 17:23:43.904 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_36.pdf
+2026-04-19 17:23:44.592 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_37.pdf
+2026-04-19 17:23:44.914 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_38.pdf
+2026-04-19 17:23:45.232 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_39.pdf
+2026-04-19 17:23:45.576 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_4.pdf
+2026-04-19 17:23:45.921 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_40.pdf
+2026-04-19 17:23:46.200 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_41.pdf
+2026-04-19 17:23:46.521 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_42.pdf
+2026-04-19 17:23:47.022 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_43.pdf
+2026-04-19 17:23:47.410 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_44.pdf
+2026-04-19 17:23:47.716 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_45.pdf
+2026-04-19 17:23:48.147 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_46.pdf
+2026-04-19 17:23:48.418 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_47.pdf
+2026-04-19 17:23:48.858 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_48.pdf
+2026-04-19 17:23:49.259 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_49.pdf
+2026-04-19 17:23:49.584 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_5.pdf
+2026-04-19 17:23:49.937 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_50.pdf
+2026-04-19 17:23:50.266 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_51.pdf
+2026-04-19 17:23:50.614 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_52.pdf
+2026-04-19 17:23:50.952 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_53.pdf
+2026-04-19 17:23:51.683 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_54.pdf
+2026-04-19 17:23:52.108 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_55.pdf
+2026-04-19 17:23:52.472 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_56.pdf
+2026-04-19 17:23:52.778 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_57.pdf
+2026-04-19 17:23:53.108 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_58.pdf
+2026-04-19 17:23:53.578 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_59.pdf
+2026-04-19 17:23:53.995 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_6.pdf
+2026-04-19 17:23:54.186 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_60.pdf
+2026-04-19 17:23:54.367 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_61.pdf
+2026-04-19 17:23:54.720 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_62.pdf
+2026-04-19 17:23:55.122 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_63.pdf
+2026-04-19 17:23:55.490 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_64.pdf
+2026-04-19 17:23:56.142 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_65.pdf
+2026-04-19 17:23:56.620 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_66.pdf
+2026-04-19 17:23:57.169 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_67.pdf
+2026-04-19 17:23:57.556 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_68.pdf
+2026-04-19 17:23:57.834 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_69.pdf
+2026-04-19 17:23:58.047 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_7.pdf
+2026-04-19 17:23:58.501 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_70.pdf
+2026-04-19 17:23:58.945 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_71.pdf
+2026-04-19 17:23:59.328 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_72.pdf
+2026-04-19 17:23:59.630 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_73.pdf
+2026-04-19 17:24:00.168 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_74.pdf
+2026-04-19 17:24:00.479 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_75.pdf
+2026-04-19 17:24:00.842 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_76.pdf
+2026-04-19 17:24:01.242 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_77.pdf
+2026-04-19 17:24:01.434 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_78.pdf
+2026-04-19 17:24:01.827 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_79.pdf
+2026-04-19 17:24:02.387 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_8.pdf
+2026-04-19 17:24:02.636 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_80.pdf
+2026-04-19 17:24:02.778 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_81.pdf
+2026-04-19 17:24:02.953 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_82.pdf
+2026-04-19 17:24:03.269 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_83.pdf
+2026-04-19 17:24:03.623 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_84.pdf
+2026-04-19 17:24:03.973 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_85.pdf
+2026-04-19 17:24:04.441 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_86.pdf
+2026-04-19 17:24:05.053 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_87.pdf
+2026-04-19 17:24:05.243 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_88.pdf
+2026-04-19 17:24:05.610 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_89.pdf
+2026-04-19 17:24:05.999 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_9.pdf
+2026-04-19 17:24:06.427 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_90.pdf
+2026-04-19 17:24:06.778 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_91.pdf
+2026-04-19 17:24:07.136 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_92.pdf
+2026-04-19 17:24:07.443 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_93.pdf
+2026-04-19 17:24:07.804 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_94.pdf
+2026-04-19 17:24:08.216 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_95.pdf
+2026-04-19 17:24:08.513 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_96.pdf
+2026-04-19 17:24:08.848 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_97.pdf
+2026-04-19 17:24:09.263 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_98.pdf
+2026-04-19 17:24:09.657 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_99.pdf
+2026-04-20 11:47:12.041 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_1.pdf'
+2026-04-20 11:47:12.044 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_2.pdf'
+2026-04-20 11:47:12.046 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_4.pdf'
+2026-04-20 11:47:12.047 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_5.pdf'
+2026-04-20 11:47:12.048 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_3.pdf'
+2026-04-20 11:47:12.049 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_6.pdf'
+2026-04-20 11:47:12.050 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_7.pdf'
+2026-04-20 11:47:12.051 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_8.pdf'
+2026-04-20 11:47:12.053 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_1.pdf'
+2026-04-20 11:47:12.054 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_2.pdf'
+2026-04-20 11:47:12.055 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_4.pdf'
+2026-04-20 11:47:12.057 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_3.pdf'
+2026-04-20 11:47:12.058 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_5.pdf'
+2026-04-20 11:47:12.059 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_6.pdf'
+2026-04-20 11:47:12.060 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_7.pdf'
+2026-04-20 11:47:12.062 | ERROR    | parsers.resume_reader:read_pdf:16 - Error reading PDF: [Errno 2] No such file or directory: 'data/raw/resumes/resume_8.pdf'
+2026-04-20 11:52:35.689 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 11:52:36.884 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 11:52:37.116 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 11:52:37.284 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 11:52:37.535 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 11:52:37.868 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 11:52:38.002 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 11:52:38.474 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 11:52:38.603 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 11:52:39.794 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 11:52:40.026 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 11:52:40.278 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 11:52:40.427 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 11:52:40.757 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 11:52:40.917 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 11:52:41.386 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 11:59:34.528 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 11:59:35.749 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 11:59:35.991 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 11:59:36.163 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 11:59:36.428 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 11:59:36.772 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 11:59:36.911 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 11:59:37.400 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 11:59:37.534 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 11:59:38.741 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 11:59:38.978 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 11:59:39.235 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 11:59:39.388 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 11:59:39.728 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 11:59:39.900 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 11:59:40.388 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:00:48.281 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:00:49.491 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:00:49.731 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:00:49.904 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:00:50.167 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:00:50.511 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:00:50.652 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:00:51.147 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:00:51.280 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:00:52.498 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:00:52.735 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:00:52.995 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:00:53.151 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:00:53.493 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:00:53.634 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:00:54.148 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:02:22.675 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:02:23.888 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:02:24.128 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:02:24.303 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:02:24.568 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:02:24.909 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:02:25.048 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:02:25.537 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:02:25.670 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:02:26.884 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:02:27.121 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:02:27.381 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:02:27.537 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:02:27.879 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:02:28.050 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:02:28.536 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:05:57.110 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:05:58.350 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:05:58.588 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:05:58.758 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:05:59.014 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:05:59.349 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:05:59.488 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:05:59.977 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:06:00.108 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:06:01.318 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:06:01.555 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:06:01.816 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:06:01.969 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:06:02.305 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:06:02.445 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:06:02.960 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:07:37.988 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:07:39.201 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:07:39.456 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:07:39.612 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:07:39.873 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:07:40.212 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:07:40.351 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:07:40.824 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 12:07:40.955 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_1.pdf
+2026-04-20 12:07:42.156 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_2.pdf
+2026-04-20 12:07:42.390 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_4.pdf
+2026-04-20 12:07:42.650 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_3.pdf
+2026-04-20 12:07:42.804 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_5.pdf
+2026-04-20 12:07:43.144 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_6.pdf
+2026-04-20 12:07:43.283 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_7.pdf
+2026-04-20 12:07:43.810 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/evaluation/resumes/resume_8.pdf
+2026-04-20 18:01:48.475 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_1.pdf
+2026-04-20 18:01:48.739 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_10.pdf
+2026-04-20 18:01:48.996 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_100.pdf
+2026-04-20 18:01:49.550 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_101.pdf
+2026-04-20 18:01:49.772 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_102.pdf
+2026-04-20 18:01:49.865 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_103.pdf
+2026-04-20 18:01:50.167 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_104.pdf
+2026-04-20 18:01:50.381 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_105.pdf
+2026-04-20 18:01:50.658 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_106.pdf
+2026-04-20 18:01:50.770 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_107.pdf
+2026-04-20 18:01:50.993 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_108.pdf
+2026-04-20 18:01:51.486 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_109.pdf
+2026-04-20 18:01:51.859 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_11.pdf
+2026-04-20 18:01:52.214 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_110.pdf
+2026-04-20 18:01:52.646 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_111.pdf
+2026-04-20 18:01:52.857 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_112.pdf
+2026-04-20 18:01:53.195 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_113.pdf
+2026-04-20 18:01:53.667 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_114.pdf
+2026-04-20 18:01:54.007 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_115.pdf
+2026-04-20 18:01:54.427 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_12.pdf
+2026-04-20 18:01:54.667 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_13.pdf
+2026-04-20 18:01:54.908 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_14.pdf
+2026-04-20 18:01:55.147 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_15.pdf
+2026-04-20 18:01:55.407 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_16.pdf
+2026-04-20 18:01:55.619 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_17.pdf
+2026-04-20 18:01:55.868 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_18.pdf
+2026-04-20 18:01:56.243 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_19.pdf
+2026-04-20 18:01:56.515 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_2.pdf
+2026-04-20 18:01:56.766 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_20.pdf
+2026-04-20 18:01:57.144 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_21.pdf
+2026-04-20 18:01:57.426 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_22.pdf
+2026-04-20 18:01:57.667 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_23.pdf
+2026-04-20 18:01:58.203 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_24.pdf
+2026-04-20 18:01:58.495 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_25.pdf
+2026-04-20 18:01:58.757 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_26.pdf
+2026-04-20 18:01:59.006 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_27.pdf
+2026-04-20 18:01:59.239 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_28.pdf
+2026-04-20 18:01:59.503 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_29.pdf
+2026-04-20 18:01:59.742 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_3.pdf
+2026-04-20 18:01:59.968 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_30.pdf
+2026-04-20 18:02:00.179 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_31.pdf
+2026-04-20 18:02:00.421 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_32.pdf
+2026-04-20 18:02:00.790 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_33.pdf
+2026-04-20 18:02:00.873 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_34.pdf
+2026-04-20 18:02:00.974 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_35.pdf
+2026-04-20 18:02:01.467 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_36.pdf
+2026-04-20 18:02:02.001 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_37.pdf
+2026-04-20 18:02:02.250 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_38.pdf
+2026-04-20 18:02:02.490 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_39.pdf
+2026-04-20 18:02:02.753 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_4.pdf
+2026-04-20 18:02:03.027 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_40.pdf
+2026-04-20 18:02:03.224 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_41.pdf
+2026-04-20 18:02:03.446 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_42.pdf
+2026-04-20 18:02:03.857 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_43.pdf
+2026-04-20 18:02:04.143 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_44.pdf
+2026-04-20 18:02:04.361 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_45.pdf
+2026-04-20 18:02:04.709 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_46.pdf
+2026-04-20 18:02:04.908 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_47.pdf
+2026-04-20 18:02:05.270 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_48.pdf
+2026-04-20 18:02:05.581 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_49.pdf
+2026-04-20 18:02:05.825 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_5.pdf
+2026-04-20 18:02:06.099 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_50.pdf
+2026-04-20 18:02:06.349 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_51.pdf
+2026-04-20 18:02:06.616 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_52.pdf
+2026-04-20 18:02:06.857 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_53.pdf
+2026-04-20 18:02:07.522 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_54.pdf
+2026-04-20 18:02:07.860 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_55.pdf
+2026-04-20 18:02:08.122 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_56.pdf
+2026-04-20 18:02:08.354 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_57.pdf
+2026-04-20 18:02:08.606 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_58.pdf
+2026-04-20 18:02:08.994 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_59.pdf
+2026-04-20 18:02:09.329 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_6.pdf
+2026-04-20 18:02:09.454 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_60.pdf
+2026-04-20 18:02:09.564 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_61.pdf
+2026-04-20 18:02:09.845 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_62.pdf
+2026-04-20 18:02:10.171 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_63.pdf
+2026-04-20 18:02:10.462 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_64.pdf
+2026-04-20 18:02:11.040 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_65.pdf
+2026-04-20 18:02:11.394 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_66.pdf
+2026-04-20 18:02:11.851 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_67.pdf
+2026-04-20 18:02:12.153 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_68.pdf
+2026-04-20 18:02:12.373 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_69.pdf
+2026-04-20 18:02:12.508 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_7.pdf
+2026-04-20 18:02:12.849 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_70.pdf
+2026-04-20 18:02:13.217 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_71.pdf
+2026-04-20 18:02:13.523 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_72.pdf
+2026-04-20 18:02:13.751 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_73.pdf
+2026-04-20 18:02:14.207 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_74.pdf
+2026-04-20 18:02:14.440 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_75.pdf
+2026-04-20 18:02:14.722 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_76.pdf
+2026-04-20 18:02:15.046 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_77.pdf
+2026-04-20 18:02:15.164 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_78.pdf
+2026-04-20 18:02:15.504 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_79.pdf
+2026-04-20 18:02:15.992 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_8.pdf
+2026-04-20 18:02:16.134 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_80.pdf
+2026-04-20 18:02:16.206 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_81.pdf
+2026-04-20 18:02:16.313 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_82.pdf
+2026-04-20 18:02:16.559 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_83.pdf
+2026-04-20 18:02:16.820 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_84.pdf
+2026-04-20 18:02:17.106 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_85.pdf
+2026-04-20 18:02:17.480 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_86.pdf
+2026-04-20 18:02:17.983 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_87.pdf
+2026-04-20 18:02:18.094 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_88.pdf
+2026-04-20 18:02:18.385 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_89.pdf
+2026-04-20 18:02:18.692 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_9.pdf
+2026-04-20 18:02:19.034 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_90.pdf
+2026-04-20 18:02:19.299 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_91.pdf
+2026-04-20 18:02:19.583 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_92.pdf
+2026-04-20 18:02:19.810 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_93.pdf
+2026-04-20 18:02:20.116 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_94.pdf
+2026-04-20 18:02:20.445 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_95.pdf
+2026-04-20 18:02:20.672 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_96.pdf
+2026-04-20 18:02:20.893 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_97.pdf
+2026-04-20 18:02:21.229 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_98.pdf
+2026-04-20 18:02:21.526 | INFO     | parsers.resume_reader:read_pdf:13 - PDF read successfully: data/raw/resumes\sample_resume_99.pdf

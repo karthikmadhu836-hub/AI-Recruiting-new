@@ -1,0 +1,11 @@
+{
+  "job_id": "J001",
+  "job_title": "Data Analyst",
+  "required_skills": [
+    {"name": "Python", "priority": "High"}
+  ],
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 3
+  }
+}

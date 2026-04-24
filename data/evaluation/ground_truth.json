@@ -1,0 +1,31 @@
+{
+  "jd_qc_trainee.txt": {
+    "relevant": [
+      "resume_1.pdf",
+      "resume_2.pdf",
+      "resume_4.pdf",
+      "resume_5.pdf"
+    ],
+    "irrelevant": [
+      "resume_3.pdf",
+      "resume_6.pdf",
+      "resume_7.pdf",
+      "resume_8.pdf"
+    ]
+  },
+
+  "jd_qc_analyst.txt": {
+    "relevant": [
+      "resume_1.pdf",
+      "resume_2.pdf",
+      "resume_4.pdf"
+    ],
+    "irrelevant": [
+      "resume_3.pdf",
+      "resume_5.pdf",
+      "resume_6.pdf",
+      "resume_7.pdf",
+      "resume_8.pdf"
+    ]
+  }
+}

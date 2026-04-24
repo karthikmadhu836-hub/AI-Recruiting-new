@@ -1,0 +1,5332 @@
+{
+    "jd1.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd1.txt",
+            "score": 0.6,
+            "details": {
+                "final_score": 0.6,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.5460534975239059
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_65.pdf",
+            "jd": "jd1.txt",
+            "score": 0.58,
+            "details": {
+                "final_score": 0.58,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4764706476336623
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_67.pdf",
+            "jd": "jd1.txt",
+            "score": 0.58,
+            "details": {
+                "final_score": 0.58,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4678987245485497
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_11.pdf",
+            "jd": "jd1.txt",
+            "score": 0.57,
+            "details": {
+                "final_score": 0.57,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.45262941985713445
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_114.pdf",
+            "jd": "jd1.txt",
+            "score": 0.57,
+            "details": {
+                "final_score": 0.57,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4415514363613891
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd65.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd65.txt",
+            "score": 0.58,
+            "details": {
+                "final_score": 0.58,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4672720533095633
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_11.pdf",
+            "jd": "jd65.txt",
+            "score": 0.57,
+            "details": {
+                "final_score": 0.57,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.45071731957331246
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_67.pdf",
+            "jd": "jd65.txt",
+            "score": 0.57,
+            "details": {
+                "final_score": 0.57,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4407383157579059
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_12.pdf",
+            "jd": "jd65.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.40498901278393357
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_19.pdf",
+            "jd": "jd65.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.40049054253115013
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd2.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd2.txt",
+            "score": 0.57,
+            "details": {
+                "final_score": 0.57,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.461193809516051
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_65.pdf",
+            "jd": "jd2.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.40170996129109465
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_67.pdf",
+            "jd": "jd2.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4284396020701492
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_74.pdf",
+            "jd": "jd2.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.40956086592358054
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_10.pdf",
+            "jd": "jd2.txt",
+            "score": 0.55,
+            "details": {
+                "final_score": 0.55,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.3801872476231293
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd30.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd30.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4052195790160864
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_65.pdf",
+            "jd": "jd30.txt",
+            "score": 0.56,
+            "details": {
+                "final_score": 0.56,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.4223711059997884
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_11.pdf",
+            "jd": "jd30.txt",
+            "score": 0.55,
+            "details": {
+                "final_score": 0.55,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.3684040425494695
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_12.pdf",
+            "jd": "jd30.txt",
+            "score": 0.55,
+            "details": {
+                "final_score": 0.55,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.38979636898611575
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_67.pdf",
+            "jd": "jd30.txt",
+            "score": 0.55,
+            "details": {
+                "final_score": 0.55,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.37869557098188456
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd4.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd4.txt",
+            "score": 0.53,
+            "details": {
+                "final_score": 0.53,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.3301089553133765
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_67.pdf",
+            "jd": "jd4.txt",
+            "score": 0.53,
+            "details": {
+                "final_score": 0.53,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.3019150323185355
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_11.pdf",
+            "jd": "jd4.txt",
+            "score": 0.52,
+            "details": {
+                "final_score": 0.52,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.26990693835219676
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_114.pdf",
+            "jd": "jd4.txt",
+            "score": 0.52,
+            "details": {
+                "final_score": 0.52,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.29413497949795586
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_12.pdf",
+            "jd": "jd4.txt",
+            "score": 0.52,
+            "details": {
+                "final_score": 0.52,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.2698650591897786
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd20.txt": [
+        {
+            "resume": "sample_resume_101.pdf",
+            "jd": "jd20.txt",
+            "score": 0.52,
+            "details": {
+                "final_score": 0.52,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.2972782427135503
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_65.pdf",
+            "jd": "jd20.txt",
+            "score": 0.52,
+            "details": {
+                "final_score": 0.52,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.27712183698069554
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_11.pdf",
+            "jd": "jd20.txt",
+            "score": 0.51,
+            "details": {
+                "final_score": 0.51,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.24021145883636436
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_114.pdf",
+            "jd": "jd20.txt",
+            "score": 0.51,
+            "details": {
+                "final_score": 0.51,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.2532477746377506
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        },
+        {
+            "resume": "sample_resume_12.pdf",
+            "jd": "jd20.txt",
+            "score": 0.51,
+            "details": {
+                "final_score": 0.51,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.2538580490305832
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "shortlisted"
+        }
+    ],
+    "jd10.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd10.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd10.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd10.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd10.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd10.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.04926426070778479
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd11.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd11.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd11.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd11.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd11.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd11.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd12.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd12.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd12.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd12.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd12.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd12.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd13.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd13.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd13.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd13.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd13.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd13.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd14.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd14.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd14.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd14.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd14.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd14.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd15.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd15.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd15.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd15.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd15.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.0625351770325997
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd15.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd16.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd16.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd16.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd16.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd16.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd16.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd17.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd17.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd17.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd17.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd17.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd17.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd18.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd18.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd18.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd18.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd18.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd18.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd19.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd19.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd19.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd19.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd19.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd19.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd21.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd21.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd21.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd21.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd21.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd21.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd22.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd22.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd22.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd22.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd22.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd22.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd23.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd23.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd23.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd23.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd23.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd23.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd24.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd24.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd24.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd24.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03953263627268516
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd24.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd24.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd25.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd25.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd25.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd25.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd25.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd25.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd26.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd26.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd26.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd26.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd26.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd26.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd27.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd27.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd27.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd27.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd27.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd27.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd28.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd28.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd28.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd28.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd28.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd28.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd29.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd29.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd29.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd29.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd29.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd29.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd3.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd3.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd3.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd3.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd3.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd3.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd31.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd31.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd31.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd31.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd31.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd31.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd32.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd32.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd32.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd32.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd32.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd32.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.04926426070778479
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd33.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd33.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd33.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd33.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd33.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd33.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd34.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd34.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd34.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd34.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_14.pdf",
+            "jd": "jd34.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03732624383055295
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd34.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd35.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd35.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd35.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd35.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd35.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.06253517703259968
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd35.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd36.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd36.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd36.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd36.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd36.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd36.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd37.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd37.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd37.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03617400635032003
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd37.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd37.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd37.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd38.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd38.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd38.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd38.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd38.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd38.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd39.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd39.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd39.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd39.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd39.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd39.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd40.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd40.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd40.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd40.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd40.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd40.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd41.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd41.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd41.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd41.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd41.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd41.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd42.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd42.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd42.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd42.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd42.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd42.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd43.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd43.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd43.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd43.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd43.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd43.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd44.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd44.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd44.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd44.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd44.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd44.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd45.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd45.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd45.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd45.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd45.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd45.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd46.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd46.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd46.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd46.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd46.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd46.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd47.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd47.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd47.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd47.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd47.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd47.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd48.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd48.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd48.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd48.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03720310296651733
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd48.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd48.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd49.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd49.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd49.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd49.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd49.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd49.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd5.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd5.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd5.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd5.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd5.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd5.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd50.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd50.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd50.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd50.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd50.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd50.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd51.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd51.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd51.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd51.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd51.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd51.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd52.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd52.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd52.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd52.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd52.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd52.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd53.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd53.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd53.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd53.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd53.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd53.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd54.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd54.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd54.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd54.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd54.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd54.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd55.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd55.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd55.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd55.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd55.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd55.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.04926426070778479
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd56.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd56.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd56.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd56.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd56.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd56.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd57.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd57.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd57.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03617400635032003
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd57.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd57.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd57.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd58.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd58.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd58.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd58.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd58.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd58.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd59.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd59.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd59.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd59.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd59.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd59.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd6.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd6.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd6.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd6.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd6.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd6.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd60.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd60.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd60.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd60.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd60.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd60.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd61.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd61.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd61.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd61.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd61.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd61.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd62.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd62.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd62.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd62.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd62.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd62.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd63.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd63.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd63.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd63.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd63.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd63.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd64.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd64.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07335096326798637
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd64.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.034064550413617875
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd64.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03371201181959615
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_16.pdf",
+            "jd": "jd64.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.05767316202122325
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_18.pdf",
+            "jd": "jd64.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.044331661489187865
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd7.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd7.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd7.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd7.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd7.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd7.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd8.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd8.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd8.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd8.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd8.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd8.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ],
+    "jd9.txt": [
+        {
+            "resume": "sample_resume_7.pdf",
+            "jd": "jd9.txt",
+            "score": 0.46,
+            "details": {
+                "final_score": 0.46,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.07877647817759433
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_100.pdf",
+            "jd": "jd9.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03476424834589731
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_103.pdf",
+            "jd": "jd9.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036783023437241755
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_104.pdf",
+            "jd": "jd9.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.036205571748616557
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        },
+        {
+            "resume": "sample_resume_107.pdf",
+            "jd": "jd9.txt",
+            "score": 0.45,
+            "details": {
+                "final_score": 0.45,
+                "breakdown": {
+                    "skills": 0.7,
+                    "experience": 0.6,
+                    "education": 0.5,
+                    "semantic": 0.03511090915297718
+                },
+                "remarks": "Candidate evaluated based on multiple weighted parameters"
+            },
+            "status": "rejected"
+        }
+    ]
+}
