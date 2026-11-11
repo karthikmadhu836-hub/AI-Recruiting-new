@@ -1,0 +1,38 @@
+{
+  "job_id": "J458",
+  "job_title": "Quality Analyst",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "manual testing", "priority": "high" },
+    { "skill_name": "test cases", "priority": "high" },
+    { "skill_name": "jira", "priority": "medium" },
+    { "skill_name": "bug tracking", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "selenium", "priority": "low" },
+    { "skill_name": "api testing", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Perform manual and automated testing",
+    "Create and execute test cases",
+    "Track and report software defects",
+    "Ensure product quality standards"
+  ],
+
+  "job_description_text": "We are looking for a Quality Analyst with experience in software testing, bug tracking, test case creation, and quality assurance processes."
+}

@@ -1,0 +1,35 @@
+{
+    "candidate_id": "C789",
+    "job_id": "J202",
+    "final_score": 76.2,
+    "decision": "Proceed",
+    "summary": {
+        "strengths": [
+            "Strong answer in Q3",
+            "Clear communication in introduction"
+        ],
+        "risks": [
+            "Slight hesitation detected in Q5"
+        ],
+        "missing_data": []
+    },
+    "highlights": {
+        "salary_expectation": "5 LPA",
+        "availability": "Notice Period",
+        "confirmed_skills": [
+            "Python",
+            "SQL",
+            "Django"
+        ]
+    },
+    "answers": [
+        {
+            "question_id": "Q1",
+            "answer": "I am a software developer with strong backend skills..."
+        },
+        {
+            "question_id": "Q3",
+            "answer": "I have 2.5 years of experience working with Python and APIs..."
+        }
+    ]
+}

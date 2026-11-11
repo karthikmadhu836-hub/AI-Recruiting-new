@@ -1,50 +1,159 @@
 import re
-from utils.logger import get_logger
 
-logger = get_logger()
-
-# -------- Section Keywords --------
+# -------------------------------------------------
+# SECTION HEADINGS
+# -------------------------------------------------
 SECTION_KEYWORDS = {
-    "skills": ["skills", "technical skills", "key skills"],
-    "experience": ["experience", "work experience", "employment"],
-    "education": ["education", "academic"],
-    "certifications": ["certifications", "certificates"],
-    "projects": ["projects", "project work"]
+
+    "summary": [
+        "summary",
+        "professional summary",
+        "profile",
+        "career objective",
+        "objective"
+    ],
+
+    "skills": [
+        "skills",
+        "technical skills",
+        "skill set",
+        "core competencies"
+    ],
+
+    "experience": [
+        "experience",
+        "work experience",
+        "professional experience",
+        "employment history",
+        "work history"
+    ],
+
+    "projects": [
+        "projects",
+        "project experience",
+        "academic projects"
+    ],
+
+    "education": [
+        "education",
+        "academic background",
+        "qualification",
+        "qualifications"
+    ],
+
+    "certifications": [
+        "certifications",
+        "certificates",
+        "licenses"
+    ]
 }
 
-# -------- Normalize Text --------
-def normalize_text(text):
-    text = text.lower()
-    text = re.sub(r'\n+', '\n', text)
-    return text
 
-# -------- Detect Sections --------
-def classify_sections(text):
-    text = normalize_text(text)
+# -------------------------------------------------
+# NORMALIZE TEXT
+# -------------------------------------------------
+def normalize_text(text):
+
+    if not isinstance(text, str):
+        return ""
+
+    text = text.lower()
+
+    # Preserve newlines
+    text = re.sub(r"[ \t]+", " ", text)
+
+    return text.strip()
+
+
+# -------------------------------------------------
+# SECTION DETECTOR
+# -------------------------------------------------
+def detect_sections(text):
+
+    if isinstance(text, dict):
+        text = text.get("cleaned_text", "")
+
+    if not isinstance(text, str):
+        text = str(text)
+
+    text = text.replace("\r\n", "\n")
+    text = text.replace("\r", "\n")
+
     lines = text.split("\n")
 
     sections = {
-        "skills": "",
-        "experience": "",
-        "education": "",
-        "certifications": "",
-        "projects": ""
+        "summary": [],
+        "skills": [],
+        "experience": [],
+        "projects": [],
+        "education": [],
+        "certifications": [],
+        "other": []
     }
 
-    current_section = None
+    current_section = "other"
 
     for line in lines:
+
         line = line.strip()
 
-        # Detect section heading
+        if not line:
+            continue
+
+        clean = normalize_text(line)
+
+        found = False
+
         for section, keywords in SECTION_KEYWORDS.items():
-            if any(keyword in line for keyword in keywords):
+
+            if any(keyword == clean for keyword in keywords):
+
                 current_section = section
+                found = True
                 break
 
-        # Add content to section
-        if current_section:
-            sections[current_section] += line + " "
+        if not found:
+            sections[current_section].append(line)
 
-    logger.info("Sections classified successfully")
     return sections
+
+
+# -------------------------------------------------
+# COMPATIBILITY FUNCTION
+# -------------------------------------------------
+def classify_sections(text):
+    return detect_sections(text)
+
+
+# -------------------------------------------------
+# TEST
+# -------------------------------------------------
+if __name__ == "__main__":
+
+    sample = """
+Professional Summary
+Python Developer with 3 years experience.
+
+Skills
+Python
+SQL
+Power BI
+
+Experience
+ABC Company
+Software Engineer
+
+Education
+B.Tech
+"""
+
+    result = detect_sections(sample)
+
+    for section, content in result.items():
+
+        print("\n===================")
+        print(section.upper())
+        print("===================")
+
+        for line in content:
+            print(line)

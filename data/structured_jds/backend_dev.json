@@ -1,0 +1,35 @@
+{
+  "job_id": "J456",
+  "job_title": "Backend Developer",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "python", "priority": "high" },
+    { "skill_name": "django", "priority": "high" },
+    { "skill_name": "rest api", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "docker", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Develop backend systems",
+    "Design APIs",
+    "Collaborate with frontend team"
+  ],
+
+  "job_description_text": "We are looking for a backend developer with Python and Django experience."
+}

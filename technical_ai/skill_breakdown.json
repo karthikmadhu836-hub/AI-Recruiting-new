@@ -1,0 +1,21 @@
+{
+    "candidate_id": "C3001",
+    "skills": {
+        "Python": 84,
+        "SQL": 79,
+        "JavaScript": 81,
+        "React": 77,
+        "Node.js": 82,
+        "System Design": 74
+    },
+    "overall_technical_score": 79.5,
+    "strengths": [
+        "Strong Python fundamentals",
+        "Good JavaScript knowledge",
+        "Logical problem solving"
+    ],
+    "weaknesses": [
+        "Needs stronger system design concepts",
+        "Optimization discussion could improve"
+    ]
+}

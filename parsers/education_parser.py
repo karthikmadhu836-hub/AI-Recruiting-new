@@ -3,61 +3,127 @@ from utils.logger import get_logger
 
 logger = get_logger()
 
-# -------- Normalize Text --------
-def normalize_text(text):
-    return text.lower()
+# -------------------------------
+# Degree Mapping
+# -------------------------------
+DEGREE_MAP = {
+    "btech": "B.Tech",
+    "b.e": "B.Tech",
+    "mtech": "M.Tech",
+    "m.e": "M.Tech",
+    "mba": "MBA",
+    "bsc": "B.Sc",
+    "msc": "M.Sc"
+}
 
-# -------- Extract Degree --------
-def extract_degree(text):
-    degrees = ["btech", "mtech", "bsc", "msc", "bachelor", "master"]
-    found = []
+# -------------------------------
+# Certification Categories
+# -------------------------------
+CERT_CATEGORIES = {
+    "aws": "Cloud",
+    "azure": "Cloud",
+    "gcp": "Cloud",
+    "python": "Programming",
+    "data science": "Data",
+    "machine learning": "AI",
+    "scrum": "Management"
+}
 
-    for deg in degrees:
-        if deg in text:
-            found.append(deg)
+# -------------------------------
+# Normalize Text (FIXED)
+# -------------------------------
+def clean_text(text):
+    if isinstance(text, dict):
+        text = text.get("cleaned_text", "")
 
-    return list(set(found))
+    text = text.lower()
 
-# -------- Extract Field --------
-def extract_field(text):
-    fields = ["computer science", "information technology", "data science", "electronics", "mechanical"]
-    
-    for field in fields:
-        if field in text:
-            return field
+    # 🔥 normalize degrees like B.Tech → btech
+    text = text.replace("b.tech", "btech")
+    text = text.replace("m.tech", "mtech")
+    text = text.replace("b.e", "be")
+    text = text.replace("m.e", "me")
 
-    return "not specified"
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    return text
 
-# -------- Extract Institution --------
-def extract_institution(text):
-    matches = re.findall(r'(college|university|institute)\s+[a-zA-Z ]+', text)
-    return list(set(matches))
+# -------------------------------
+# Extract Education (NEW)
+# -------------------------------
+def extract_education(text):
+    text = clean_text(text)
+    education_list = []
 
-# -------- Extract Graduation Year --------
-def extract_year(text):
-    years = re.findall(r'(20\d{2})', text)
-    return list(set(years))
+    for key, value in DEGREE_MAP.items():
+        if re.search(rf"\b{key}\b", text):
+            year_match = re.findall(r"(20\d{2})", text)
+            year = year_match[0] if year_match else None
 
-# -------- Extract Certifications --------
+            education_list.append({
+                "degree": value,
+                "field": "Not Specified",
+                "institution": "Not Extracted",
+                "year_of_completion": year
+            })
+
+    return education_list
+
+# -------------------------------
+# Extract Certifications (NEW)
+# -------------------------------
 def extract_certifications(text):
-    cert_keywords = ["certified", "certification", "aws", "google", "azure"]
-    certs = []
+    text = clean_text(text)
+    certifications = []
 
-    for word in cert_keywords:
-        if word in text:
-            certs.append(word)
+    for keyword, category in CERT_CATEGORIES.items():
+        if keyword in text:
+            certifications.append({
+                "name": keyword.title(),
+                "category": category
+            })
 
-    return list(set(certs))
+    return certifications
 
-# -------- MAIN FUNCTION --------
+# -------------------------------
+# Education Relevance
+# -------------------------------
+def calculate_education_relevance(candidate_degree, required_degree):
+    if not candidate_degree or not required_degree:
+        return 0
+
+    candidate_degree = candidate_degree.lower()
+    required_degree = required_degree.lower()
+
+    if candidate_degree == required_degree:
+        return 1.0
+    elif candidate_degree in ["m.tech", "mba"] and required_degree in ["b.tech", "b.e"]:
+        return 0.8
+    else:
+        return 0.5
+
+# -------------------------------
+# Certification Relevance
+# -------------------------------
+def calculate_certification_relevance(certifications, job_skills):
+    score = 0
+
+    for cert in certifications:
+        if cert["category"].lower() in [skill.lower() for skill in job_skills]:
+            score += 1
+
+    if len(certifications) == 0:
+        return 0
+
+    return round((score / len(certifications)) * 100, 2)
+
+# -------------------------------
+# OLD FUNCTION (FOR TESTS)
+# -------------------------------
 def parse_education(text):
-    text = normalize_text(text)
+    text = clean_text(text)
 
     education_data = {
-        "degree": extract_degree(text),
-        "field": extract_field(text),
-        "institution": extract_institution(text),
-        "graduation_year": extract_year(text),
+        "education": extract_education(text),
         "certifications": extract_certifications(text)
     }
 

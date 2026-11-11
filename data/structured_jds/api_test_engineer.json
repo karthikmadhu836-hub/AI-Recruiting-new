@@ -1,0 +1,35 @@
+{
+  "job_id": "J463",
+  "job_title": "API Test Engineer",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "api testing", "priority": "high" },
+    { "skill_name": "postman", "priority": "high" },
+    { "skill_name": "bug tracking", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "rest api", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Test REST APIs",
+    "Validate API responses",
+    "Report integration defects"
+  ],
+
+  "job_description_text": "Looking for an API Test Engineer experienced in Postman, REST API testing, and defect tracking."
+}

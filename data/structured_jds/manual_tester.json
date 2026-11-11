@@ -1,0 +1,35 @@
+{
+  "job_id": "J460",
+  "job_title": "Manual Tester",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 4
+  },
+
+  "required_skills": [
+    { "skill_name": "manual testing", "priority": "high" },
+    { "skill_name": "test case design", "priority": "high" },
+    { "skill_name": "bug tracking", "priority": "high" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "jira", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Execute manual test cases",
+    "Report software defects",
+    "Validate application functionality"
+  ],
+
+  "job_description_text": "Looking for a Manual Tester with experience in test case creation, bug reporting, and software validation."
+}

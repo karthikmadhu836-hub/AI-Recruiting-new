@@ -1,0 +1,35 @@
+{
+  "job_id": "J461",
+  "job_title": "QA Engineer",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "quality assurance", "priority": "high" },
+    { "skill_name": "manual testing", "priority": "high" },
+    { "skill_name": "jira", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "api testing", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Ensure product quality",
+    "Track defects",
+    "Prepare QA reports"
+  ],
+
+  "job_description_text": "Seeking a QA Engineer with expertise in quality assurance, testing methodologies, and defect management."
+}

@@ -1,0 +1,5315 @@
+{
+    "job_id": null,
+    "summary": {
+        "total_candidates": 65,
+        "shortlisted": 0,
+        "review": 0,
+        "rejected": 65
+    },
+    "ranked_list": [
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd1.txt",
+            "job_title": "quality control analyst",
+            "final_score": 48.97,
+            "skill_score": 13.33,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 47.23,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 32.71,
+                "checks": {
+                    "ats_score": 48.97,
+                    "skill_match_percent": 13.33,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "analytical skills",
+                        "attention to detail",
+                        "communication",
+                        "compliance",
+                        "corrective action",
+                        "documentation",
+                        "excel",
+                        "glp",
+                        "gmp",
+                        "iso 9001",
+                        "quality assurance",
+                        "quality control",
+                        "root cause analysis",
+                        "teamwork",
+                        "testing"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [
+                "communication",
+                "excel"
+            ],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.2854,
+                "experience_similarity": 0.4445,
+                "project_similarity": 0.7494,
+                "final_similarity_score": 47.23
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 13.33,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 47.23
+            },
+            "processed_at": "2026-07-30 15:47:28.459792",
+            "normalized_score": 100.0,
+            "masked_profile": {},
+            "fair_score": 33.67,
+            "rank": 1,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 48.97,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd65.txt",
+            "job_title": "unknown",
+            "final_score": 45.88,
+            "skill_score": 12.5,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 36.03,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 30.65,
+                "checks": {
+                    "ats_score": 45.88,
+                    "skill_match_percent": 12.5,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "analytical skills",
+                        "communication",
+                        "compliance",
+                        "corrective action",
+                        "documentation",
+                        "gmp",
+                        "quality assurance",
+                        "quality control"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [
+                "communication"
+            ],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.2462,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.5707,
+                "final_similarity_score": 36.03
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 12.5,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 36.03
+            },
+            "processed_at": "2026-07-30 15:47:33.238084",
+            "normalized_score": 71.01,
+            "masked_profile": {},
+            "fair_score": 26.62,
+            "rank": 2,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 45.88,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd20.txt",
+            "job_title": "unknown",
+            "final_score": 40.14,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 30.57,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 24.08,
+                "checks": {
+                    "ats_score": 40.14,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "attention to detail",
+                        "data analysis",
+                        "quality assurance"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.209,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4382,
+                "final_similarity_score": 30.57
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 30.57
+            },
+            "processed_at": "2026-07-30 15:47:29.434848",
+            "normalized_score": 17.17,
+            "masked_profile": {},
+            "fair_score": 18.34,
+            "rank": 3,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 40.14,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd30.txt",
+            "job_title": "unknown",
+            "final_score": 39.97,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 29.87,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.98,
+                "checks": {
+                    "ats_score": 39.97,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "attention to detail",
+                        "compliance",
+                        "documentation",
+                        "gmp",
+                        "quality control"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1544,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4878,
+                "final_similarity_score": 29.87
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 29.87
+            },
+            "processed_at": "2026-07-30 15:47:30.312864",
+            "normalized_score": 15.57,
+            "masked_profile": {},
+            "fair_score": 17.92,
+            "rank": 4,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 39.97,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd2.txt",
+            "job_title": "unknown",
+            "final_score": 39.86,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 29.45,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.92,
+                "checks": {
+                    "ats_score": 39.86,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "documentation",
+                        "quality control",
+                        "teamwork",
+                        "testing"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1383,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4952,
+                "final_similarity_score": 29.45
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 29.45
+            },
+            "processed_at": "2026-07-30 15:47:29.339591",
+            "normalized_score": 14.54,
+            "masked_profile": {},
+            "fair_score": 17.67,
+            "rank": 5,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 39.86,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd4.txt",
+            "job_title": "unknown",
+            "final_score": 39.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 28.38,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.75,
+                "checks": {
+                    "ats_score": 39.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "compliance",
+                        "documentation",
+                        "quality control",
+                        "testing"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1163,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4889,
+                "final_similarity_score": 28.38
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 28.38
+            },
+            "processed_at": "2026-07-30 15:47:31.119461",
+            "normalized_score": 12.01,
+            "masked_profile": {},
+            "fair_score": 17.03,
+            "rank": 6,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd44.txt",
+            "job_title": "unknown",
+            "final_score": 38.62,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.5,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.17,
+                "checks": {
+                    "ats_score": 38.62,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3285,
+                "final_similarity_score": 24.5
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.5
+            },
+            "processed_at": "2026-07-30 15:47:31.497235",
+            "normalized_score": 2.91,
+            "masked_profile": {},
+            "fair_score": 14.7,
+            "rank": 7,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd45.txt",
+            "job_title": "unknown",
+            "final_score": 38.6,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.39,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.16,
+                "checks": {
+                    "ats_score": 38.6,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3248,
+                "final_similarity_score": 24.39
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.39
+            },
+            "processed_at": "2026-07-30 15:47:31.571026",
+            "normalized_score": 2.72,
+            "masked_profile": {},
+            "fair_score": 14.63,
+            "rank": 8,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd31.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.36,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.324,
+                "final_similarity_score": 24.36
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.36
+            },
+            "processed_at": "2026-07-30 15:47:30.387873",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.62,
+            "rank": 9,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd33.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.37,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3241,
+                "final_similarity_score": 24.37
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.37
+            },
+            "processed_at": "2026-07-30 15:47:30.544291",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.62,
+            "rank": 10,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd38.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.34,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3234,
+                "final_similarity_score": 24.34
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.34
+            },
+            "processed_at": "2026-07-30 15:47:30.958159",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.6,
+            "rank": 11,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd39.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.35,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3235,
+                "final_similarity_score": 24.35
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.35
+            },
+            "processed_at": "2026-07-30 15:47:31.034508",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.61,
+            "rank": 12,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd41.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.38,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3245,
+                "final_similarity_score": 24.38
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.38
+            },
+            "processed_at": "2026-07-30 15:47:31.272264",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.63,
+            "rank": 13,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd46.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.36,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.324,
+                "final_similarity_score": 24.36
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.36
+            },
+            "processed_at": "2026-07-30 15:47:31.648298",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.62,
+            "rank": 14,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd47.txt",
+            "job_title": "unknown",
+            "final_score": 38.59,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.37,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.59,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3243,
+                "final_similarity_score": 24.37
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.37
+            },
+            "processed_at": "2026-07-30 15:47:31.723050",
+            "normalized_score": 2.63,
+            "masked_profile": {},
+            "fair_score": 14.62,
+            "rank": 15,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd37.txt",
+            "job_title": "unknown",
+            "final_score": 38.58,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.31,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.15,
+                "checks": {
+                    "ats_score": 38.58,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3221,
+                "final_similarity_score": 24.31
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.31
+            },
+            "processed_at": "2026-07-30 15:47:30.847167",
+            "normalized_score": 2.53,
+            "masked_profile": {},
+            "fair_score": 14.59,
+            "rank": 16,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd22.txt",
+            "job_title": "unknown",
+            "final_score": 38.57,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.29,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.14,
+                "checks": {
+                    "ats_score": 38.57,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3216,
+                "final_similarity_score": 24.29
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.29
+            },
+            "processed_at": "2026-07-30 15:47:29.606939",
+            "normalized_score": 2.44,
+            "masked_profile": {},
+            "fair_score": 14.57,
+            "rank": 17,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd58.txt",
+            "job_title": "unknown",
+            "final_score": 38.56,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.23,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.14,
+                "checks": {
+                    "ats_score": 38.56,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3196,
+                "final_similarity_score": 24.23
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.23
+            },
+            "processed_at": "2026-07-30 15:47:32.619631",
+            "normalized_score": 2.35,
+            "masked_profile": {},
+            "fair_score": 14.54,
+            "rank": 18,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd62.txt",
+            "job_title": "unknown",
+            "final_score": 38.56,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.24,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.14,
+                "checks": {
+                    "ats_score": 38.56,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3199,
+                "final_similarity_score": 24.24
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.24
+            },
+            "processed_at": "2026-07-30 15:47:32.991379",
+            "normalized_score": 2.35,
+            "masked_profile": {},
+            "fair_score": 14.54,
+            "rank": 19,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd23.txt",
+            "job_title": "unknown",
+            "final_score": 38.55,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.22,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.13,
+                "checks": {
+                    "ats_score": 38.55,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3192,
+                "final_similarity_score": 24.22
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.22
+            },
+            "processed_at": "2026-07-30 15:47:29.687096",
+            "normalized_score": 2.25,
+            "masked_profile": {},
+            "fair_score": 14.53,
+            "rank": 20,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd34.txt",
+            "job_title": "unknown",
+            "final_score": 38.55,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.18,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.13,
+                "checks": {
+                    "ats_score": 38.55,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3178,
+                "final_similarity_score": 24.18
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.18
+            },
+            "processed_at": "2026-07-30 15:47:30.621162",
+            "normalized_score": 2.25,
+            "masked_profile": {},
+            "fair_score": 14.51,
+            "rank": 21,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd61.txt",
+            "job_title": "unknown",
+            "final_score": 38.55,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.21,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.13,
+                "checks": {
+                    "ats_score": 38.55,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3189,
+                "final_similarity_score": 24.21
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.21
+            },
+            "processed_at": "2026-07-30 15:47:32.915589",
+            "normalized_score": 2.25,
+            "masked_profile": {},
+            "fair_score": 14.53,
+            "rank": 22,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd28.txt",
+            "job_title": "unknown",
+            "final_score": 38.54,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.15,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.12,
+                "checks": {
+                    "ats_score": 38.54,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.317,
+                "final_similarity_score": 24.15
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.15
+            },
+            "processed_at": "2026-07-30 15:47:30.068828",
+            "normalized_score": 2.16,
+            "masked_profile": {},
+            "fair_score": 14.49,
+            "rank": 23,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd43.txt",
+            "job_title": "unknown",
+            "final_score": 38.54,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.17,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.12,
+                "checks": {
+                    "ats_score": 38.54,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3177,
+                "final_similarity_score": 24.17
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.17
+            },
+            "processed_at": "2026-07-30 15:47:31.420853",
+            "normalized_score": 2.16,
+            "masked_profile": {},
+            "fair_score": 14.5,
+            "rank": 24,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd57.txt",
+            "job_title": "unknown",
+            "final_score": 38.54,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.14,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.12,
+                "checks": {
+                    "ats_score": 38.54,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3164,
+                "final_similarity_score": 24.14
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.14
+            },
+            "processed_at": "2026-07-30 15:47:32.543619",
+            "normalized_score": 2.16,
+            "masked_profile": {},
+            "fair_score": 14.48,
+            "rank": 25,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd51.txt",
+            "job_title": "unknown",
+            "final_score": 38.53,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.1,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.12,
+                "checks": {
+                    "ats_score": 38.53,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3151,
+                "final_similarity_score": 24.1
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.1
+            },
+            "processed_at": "2026-07-30 15:47:32.096904",
+            "normalized_score": 2.06,
+            "masked_profile": {},
+            "fair_score": 14.46,
+            "rank": 26,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd52.txt",
+            "job_title": "unknown",
+            "final_score": 38.53,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.11,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.12,
+                "checks": {
+                    "ats_score": 38.53,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3157,
+                "final_similarity_score": 24.11
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.11
+            },
+            "processed_at": "2026-07-30 15:47:32.169159",
+            "normalized_score": 2.06,
+            "masked_profile": {},
+            "fair_score": 14.47,
+            "rank": 27,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd25.txt",
+            "job_title": "unknown",
+            "final_score": 38.52,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.08,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.52,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3145,
+                "final_similarity_score": 24.08
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.08
+            },
+            "processed_at": "2026-07-30 15:47:29.848047",
+            "normalized_score": 1.97,
+            "masked_profile": {},
+            "fair_score": 14.45,
+            "rank": 28,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd19.txt",
+            "job_title": "unknown",
+            "final_score": 38.51,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.04,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.51,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3132,
+                "final_similarity_score": 24.04
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.04
+            },
+            "processed_at": "2026-07-30 15:47:29.252463",
+            "normalized_score": 1.88,
+            "masked_profile": {},
+            "fair_score": 14.42,
+            "rank": 29,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd27.txt",
+            "job_title": "unknown",
+            "final_score": 38.51,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.02,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.51,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3127,
+                "final_similarity_score": 24.02
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.02
+            },
+            "processed_at": "2026-07-30 15:47:29.994860",
+            "normalized_score": 1.88,
+            "masked_profile": {},
+            "fair_score": 14.41,
+            "rank": 30,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd29.txt",
+            "job_title": "unknown",
+            "final_score": 38.51,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.05,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.51,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3135,
+                "final_similarity_score": 24.05
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.05
+            },
+            "processed_at": "2026-07-30 15:47:30.144902",
+            "normalized_score": 1.88,
+            "masked_profile": {},
+            "fair_score": 14.43,
+            "rank": 31,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd54.txt",
+            "job_title": "unknown",
+            "final_score": 38.51,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.05,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.51,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3136,
+                "final_similarity_score": 24.05
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.05
+            },
+            "processed_at": "2026-07-30 15:47:32.320206",
+            "normalized_score": 1.88,
+            "masked_profile": {},
+            "fair_score": 14.43,
+            "rank": 32,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd56.txt",
+            "job_title": "unknown",
+            "final_score": 38.51,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 24.02,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.11,
+                "checks": {
+                    "ats_score": 38.51,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3124,
+                "final_similarity_score": 24.02
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 24.02
+            },
+            "processed_at": "2026-07-30 15:47:32.467810",
+            "normalized_score": 1.88,
+            "masked_profile": {},
+            "fair_score": 14.41,
+            "rank": 33,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd18.txt",
+            "job_title": "unknown",
+            "final_score": 38.5,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.98,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.1,
+                "checks": {
+                    "ats_score": 38.5,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3113,
+                "final_similarity_score": 23.98
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.98
+            },
+            "processed_at": "2026-07-30 15:47:29.180870",
+            "normalized_score": 1.78,
+            "masked_profile": {},
+            "fair_score": 14.39,
+            "rank": 34,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd32.txt",
+            "job_title": "unknown",
+            "final_score": 38.5,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.99,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.1,
+                "checks": {
+                    "ats_score": 38.5,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3116,
+                "final_similarity_score": 23.99
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.99
+            },
+            "processed_at": "2026-07-30 15:47:30.466532",
+            "normalized_score": 1.78,
+            "masked_profile": {},
+            "fair_score": 14.39,
+            "rank": 35,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd42.txt",
+            "job_title": "unknown",
+            "final_score": 38.5,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.99,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.1,
+                "checks": {
+                    "ats_score": 38.5,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3117,
+                "final_similarity_score": 23.99
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.99
+            },
+            "processed_at": "2026-07-30 15:47:31.346535",
+            "normalized_score": 1.78,
+            "masked_profile": {},
+            "fair_score": 14.39,
+            "rank": 36,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd59.txt",
+            "job_title": "unknown",
+            "final_score": 38.5,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.98,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.1,
+                "checks": {
+                    "ats_score": 38.5,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3113,
+                "final_similarity_score": 23.98
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.98
+            },
+            "processed_at": "2026-07-30 15:47:32.691852",
+            "normalized_score": 1.78,
+            "masked_profile": {},
+            "fair_score": 14.39,
+            "rank": 37,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd15.txt",
+            "job_title": "unknown",
+            "final_score": 38.49,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.96,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.09,
+                "checks": {
+                    "ats_score": 38.49,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3105,
+                "final_similarity_score": 23.96
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.96
+            },
+            "processed_at": "2026-07-30 15:47:28.917090",
+            "normalized_score": 1.69,
+            "masked_profile": {},
+            "fair_score": 14.38,
+            "rank": 38,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd21.txt",
+            "job_title": "unknown",
+            "final_score": 38.49,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.96,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.09,
+                "checks": {
+                    "ats_score": 38.49,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3106,
+                "final_similarity_score": 23.96
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.96
+            },
+            "processed_at": "2026-07-30 15:47:29.523612",
+            "normalized_score": 1.69,
+            "masked_profile": {},
+            "fair_score": 14.38,
+            "rank": 39,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd26.txt",
+            "job_title": "unknown",
+            "final_score": 38.49,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.96,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.09,
+                "checks": {
+                    "ats_score": 38.49,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3106,
+                "final_similarity_score": 23.96
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.96
+            },
+            "processed_at": "2026-07-30 15:47:29.920078",
+            "normalized_score": 1.69,
+            "masked_profile": {},
+            "fair_score": 14.38,
+            "rank": 40,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd36.txt",
+            "job_title": "unknown",
+            "final_score": 38.49,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.97,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.09,
+                "checks": {
+                    "ats_score": 38.49,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.311,
+                "final_similarity_score": 23.97
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.97
+            },
+            "processed_at": "2026-07-30 15:47:30.773505",
+            "normalized_score": 1.69,
+            "masked_profile": {},
+            "fair_score": 14.38,
+            "rank": 41,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd55.txt",
+            "job_title": "unknown",
+            "final_score": 38.49,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.97,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.09,
+                "checks": {
+                    "ats_score": 38.49,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.311,
+                "final_similarity_score": 23.97
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.97
+            },
+            "processed_at": "2026-07-30 15:47:32.393456",
+            "normalized_score": 1.69,
+            "masked_profile": {},
+            "fair_score": 14.38,
+            "rank": 42,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd13.txt",
+            "job_title": "unknown",
+            "final_score": 38.47,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.88,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.08,
+                "checks": {
+                    "ats_score": 38.47,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3079,
+                "final_similarity_score": 23.88
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.88
+            },
+            "processed_at": "2026-07-30 15:47:28.768135",
+            "normalized_score": 1.5,
+            "masked_profile": {},
+            "fair_score": 14.33,
+            "rank": 43,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd14.txt",
+            "job_title": "unknown",
+            "final_score": 38.47,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.89,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.08,
+                "checks": {
+                    "ats_score": 38.47,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3081,
+                "final_similarity_score": 23.89
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.89
+            },
+            "processed_at": "2026-07-30 15:47:28.842414",
+            "normalized_score": 1.5,
+            "masked_profile": {},
+            "fair_score": 14.33,
+            "rank": 44,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd17.txt",
+            "job_title": "unknown",
+            "final_score": 38.47,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.89,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.08,
+                "checks": {
+                    "ats_score": 38.47,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3081,
+                "final_similarity_score": 23.89
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.89
+            },
+            "processed_at": "2026-07-30 15:47:29.084146",
+            "normalized_score": 1.5,
+            "masked_profile": {},
+            "fair_score": 14.33,
+            "rank": 45,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd40.txt",
+            "job_title": "unknown",
+            "final_score": 38.46,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.86,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.08,
+                "checks": {
+                    "ats_score": 38.46,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3071,
+                "final_similarity_score": 23.86
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.86
+            },
+            "processed_at": "2026-07-30 15:47:31.194532",
+            "normalized_score": 1.41,
+            "masked_profile": {},
+            "fair_score": 14.32,
+            "rank": 46,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd63.txt",
+            "job_title": "unknown",
+            "final_score": 38.46,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.84,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.08,
+                "checks": {
+                    "ats_score": 38.46,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3066,
+                "final_similarity_score": 23.84
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.84
+            },
+            "processed_at": "2026-07-30 15:47:33.067979",
+            "normalized_score": 1.41,
+            "masked_profile": {},
+            "fair_score": 14.3,
+            "rank": 47,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd16.txt",
+            "job_title": "unknown",
+            "final_score": 38.45,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.81,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.07,
+                "checks": {
+                    "ats_score": 38.45,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3055,
+                "final_similarity_score": 23.81
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.81
+            },
+            "processed_at": "2026-07-30 15:47:28.994464",
+            "normalized_score": 1.31,
+            "masked_profile": {},
+            "fair_score": 14.29,
+            "rank": 48,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd35.txt",
+            "job_title": "unknown",
+            "final_score": 38.45,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.81,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.07,
+                "checks": {
+                    "ats_score": 38.45,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3056,
+                "final_similarity_score": 23.81
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.81
+            },
+            "processed_at": "2026-07-30 15:47:30.698990",
+            "normalized_score": 1.31,
+            "masked_profile": {},
+            "fair_score": 14.29,
+            "rank": 49,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd8.txt",
+            "job_title": "unknown",
+            "final_score": 38.45,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.81,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.07,
+                "checks": {
+                    "ats_score": 38.45,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3056,
+                "final_similarity_score": 23.81
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.81
+            },
+            "processed_at": "2026-07-30 15:47:33.393657",
+            "normalized_score": 1.31,
+            "masked_profile": {},
+            "fair_score": 14.29,
+            "rank": 50,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd24.txt",
+            "job_title": "unknown",
+            "final_score": 38.44,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.75,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.06,
+                "checks": {
+                    "ats_score": 38.44,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3034,
+                "final_similarity_score": 23.75
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.75
+            },
+            "processed_at": "2026-07-30 15:47:29.770071",
+            "normalized_score": 1.22,
+            "masked_profile": {},
+            "fair_score": 14.25,
+            "rank": 51,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd3.txt",
+            "job_title": "unknown",
+            "final_score": 38.44,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.74,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.06,
+                "checks": {
+                    "ats_score": 38.44,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3033,
+                "final_similarity_score": 23.74
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.74
+            },
+            "processed_at": "2026-07-30 15:47:30.223346",
+            "normalized_score": 1.22,
+            "masked_profile": {},
+            "fair_score": 14.24,
+            "rank": 52,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd11.txt",
+            "job_title": "unknown",
+            "final_score": 38.43,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.71,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.06,
+                "checks": {
+                    "ats_score": 38.43,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3024,
+                "final_similarity_score": 23.71
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.71
+            },
+            "processed_at": "2026-07-30 15:47:28.614688",
+            "normalized_score": 1.13,
+            "masked_profile": {},
+            "fair_score": 14.23,
+            "rank": 53,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd49.txt",
+            "job_title": "unknown",
+            "final_score": 38.41,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.62,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.05,
+                "checks": {
+                    "ats_score": 38.41,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2993,
+                "final_similarity_score": 23.62
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.62
+            },
+            "processed_at": "2026-07-30 15:47:31.871715",
+            "normalized_score": 0.94,
+            "masked_profile": {},
+            "fair_score": 14.17,
+            "rank": 54,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd60.txt",
+            "job_title": "unknown",
+            "final_score": 38.41,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.65,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.05,
+                "checks": {
+                    "ats_score": 38.41,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.3002,
+                "final_similarity_score": 23.65
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.65
+            },
+            "processed_at": "2026-07-30 15:47:32.838716",
+            "normalized_score": 0.94,
+            "masked_profile": {},
+            "fair_score": 14.19,
+            "rank": 55,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd50.txt",
+            "job_title": "unknown",
+            "final_score": 38.4,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.6,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.04,
+                "checks": {
+                    "ats_score": 38.4,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2987,
+                "final_similarity_score": 23.6
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.6
+            },
+            "processed_at": "2026-07-30 15:47:32.021094",
+            "normalized_score": 0.84,
+            "masked_profile": {},
+            "fair_score": 14.16,
+            "rank": 56,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd53.txt",
+            "job_title": "unknown",
+            "final_score": 38.4,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.59,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.04,
+                "checks": {
+                    "ats_score": 38.4,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2982,
+                "final_similarity_score": 23.59
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.59
+            },
+            "processed_at": "2026-07-30 15:47:32.243761",
+            "normalized_score": 0.84,
+            "masked_profile": {},
+            "fair_score": 14.15,
+            "rank": 57,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd64.txt",
+            "job_title": "unknown",
+            "final_score": 38.4,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.58,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.04,
+                "checks": {
+                    "ats_score": 38.4,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2979,
+                "final_similarity_score": 23.58
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.58
+            },
+            "processed_at": "2026-07-30 15:47:33.144298",
+            "normalized_score": 0.84,
+            "masked_profile": {},
+            "fair_score": 14.15,
+            "rank": 58,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd12.txt",
+            "job_title": "unknown",
+            "final_score": 38.39,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.56,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.03,
+                "checks": {
+                    "ats_score": 38.39,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2971,
+                "final_similarity_score": 23.56
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.56
+            },
+            "processed_at": "2026-07-30 15:47:28.692477",
+            "normalized_score": 0.75,
+            "masked_profile": {},
+            "fair_score": 14.14,
+            "rank": 59,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd48.txt",
+            "job_title": "unknown",
+            "final_score": 38.39,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.56,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.03,
+                "checks": {
+                    "ats_score": 38.39,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2973,
+                "final_similarity_score": 23.56
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.56
+            },
+            "processed_at": "2026-07-30 15:47:31.798203",
+            "normalized_score": 0.75,
+            "masked_profile": {},
+            "fair_score": 14.14,
+            "rank": 60,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd6.txt",
+            "job_title": "unknown",
+            "final_score": 38.39,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.57,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.03,
+                "checks": {
+                    "ats_score": 38.39,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2975,
+                "final_similarity_score": 23.57
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.57
+            },
+            "processed_at": "2026-07-30 15:47:32.763558",
+            "normalized_score": 0.75,
+            "masked_profile": {},
+            "fair_score": 14.14,
+            "rank": 61,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd5.txt",
+            "job_title": "unknown",
+            "final_score": 38.38,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.51,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.03,
+                "checks": {
+                    "ats_score": 38.38,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2957,
+                "final_similarity_score": 23.51
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.51
+            },
+            "processed_at": "2026-07-30 15:47:31.944121",
+            "normalized_score": 0.66,
+            "masked_profile": {},
+            "fair_score": 14.11,
+            "rank": 62,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd9.txt",
+            "job_title": "unknown",
+            "final_score": 38.38,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.53,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.03,
+                "checks": {
+                    "ats_score": 38.38,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2962,
+                "final_similarity_score": 23.53
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.53
+            },
+            "processed_at": "2026-07-30 15:47:33.470141",
+            "normalized_score": 0.66,
+            "masked_profile": {},
+            "fair_score": 14.12,
+            "rank": 63,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd10.txt",
+            "job_title": "unknown",
+            "final_score": 38.35,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.39,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.01,
+                "checks": {
+                    "ats_score": 38.35,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2917,
+                "final_similarity_score": 23.39
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.39
+            },
+            "processed_at": "2026-07-30 15:47:28.536205",
+            "normalized_score": 0.38,
+            "masked_profile": {},
+            "fair_score": 14.03,
+            "rank": 64,
+            "status": "Rejected"
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd7.txt",
+            "job_title": "unknown",
+            "final_score": 38.31,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 23.26,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 22.99,
+                "checks": {
+                    "ats_score": 38.31,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "python",
+                        "sql"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1395,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.2872,
+                "final_similarity_score": 23.26
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 23.26
+            },
+            "processed_at": "2026-07-30 15:47:33.315893",
+            "normalized_score": 0.0,
+            "masked_profile": {},
+            "fair_score": 13.96,
+            "rank": 65,
+            "status": "Rejected"
+        }
+    ],
+    "top_candidates": [
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd1.txt",
+            "job_title": "quality control analyst",
+            "final_score": 48.97,
+            "skill_score": 13.33,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 47.23,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 32.71,
+                "checks": {
+                    "ats_score": 48.97,
+                    "skill_match_percent": 13.33,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "analytical skills",
+                        "attention to detail",
+                        "communication",
+                        "compliance",
+                        "corrective action",
+                        "documentation",
+                        "excel",
+                        "glp",
+                        "gmp",
+                        "iso 9001",
+                        "quality assurance",
+                        "quality control",
+                        "root cause analysis",
+                        "teamwork",
+                        "testing"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [
+                "communication",
+                "excel"
+            ],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.2854,
+                "experience_similarity": 0.4445,
+                "project_similarity": 0.7494,
+                "final_similarity_score": 47.23
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 13.33,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 47.23
+            },
+            "processed_at": "2026-07-30 15:47:28.459792",
+            "normalized_score": 100.0,
+            "masked_profile": {},
+            "fair_score": 33.67,
+            "rank": 1,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 48.97,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd65.txt",
+            "job_title": "unknown",
+            "final_score": 45.88,
+            "skill_score": 12.5,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 36.03,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 30.65,
+                "checks": {
+                    "ats_score": 45.88,
+                    "skill_match_percent": 12.5,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "analytical skills",
+                        "communication",
+                        "compliance",
+                        "corrective action",
+                        "documentation",
+                        "gmp",
+                        "quality assurance",
+                        "quality control"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [
+                "communication"
+            ],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.2462,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.5707,
+                "final_similarity_score": 36.03
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 12.5,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 36.03
+            },
+            "processed_at": "2026-07-30 15:47:33.238084",
+            "normalized_score": 71.01,
+            "masked_profile": {},
+            "fair_score": 26.62,
+            "rank": 2,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 45.88,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd20.txt",
+            "job_title": "unknown",
+            "final_score": 40.14,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 30.57,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 24.08,
+                "checks": {
+                    "ats_score": 40.14,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "attention to detail",
+                        "data analysis",
+                        "quality assurance"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.209,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4382,
+                "final_similarity_score": 30.57
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 30.57
+            },
+            "processed_at": "2026-07-30 15:47:29.434848",
+            "normalized_score": 17.17,
+            "masked_profile": {},
+            "fair_score": 18.34,
+            "rank": 3,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 40.14,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd30.txt",
+            "job_title": "unknown",
+            "final_score": 39.97,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 29.87,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.98,
+                "checks": {
+                    "ats_score": 39.97,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "attention to detail",
+                        "compliance",
+                        "documentation",
+                        "gmp",
+                        "quality control"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1544,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4878,
+                "final_similarity_score": 29.87
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 29.87
+            },
+            "processed_at": "2026-07-30 15:47:30.312864",
+            "normalized_score": 15.57,
+            "masked_profile": {},
+            "fair_score": 17.92,
+            "rank": 4,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 39.97,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        },
+        {
+            "candidate_id": "sample_resume_1.pdf",
+            "job_id": "jd2.txt",
+            "job_title": "unknown",
+            "final_score": 39.86,
+            "skill_score": 0.0,
+            "experience_score": 100,
+            "education_score": 50,
+            "semantic_score": 29.45,
+            "eligibility": {
+                "candidate_id": "sample_resume_1.pdf",
+                "eligibility_status": "Rejected",
+                "eligibility_score": 23.92,
+                "checks": {
+                    "ats_score": 39.86,
+                    "skill_match_percent": 0.0,
+                    "experience_score": 0.0
+                },
+                "rules_used": {
+                    "min_ats_score": 40,
+                    "mandatory_skills": [
+                        "documentation",
+                        "quality control",
+                        "teamwork",
+                        "testing"
+                    ],
+                    "min_experience": 1,
+                    "max_experience": 10,
+                    "allowed_locations": [],
+                    "availability_required": false
+                }
+            },
+            "matched_skills": [],
+            "all_skills": [
+                "communication",
+                "excel"
+            ],
+            "education": [],
+            "certifications": [],
+            "experience": {
+                "experiences": [],
+                "roles": [
+                    "analyst",
+                    "intern"
+                ],
+                "total_experience": 0,
+                "gaps": [],
+                "overlaps": []
+            },
+            "semantic_details": {
+                "skills_similarity": 0.1383,
+                "experience_similarity": 0.3021,
+                "project_similarity": 0.4952,
+                "final_similarity_score": 29.45
+            },
+            "weights_used": {
+                "skills": 0.35,
+                "experience": 0.25,
+                "education": 0.15,
+                "semantic": 0.25
+            },
+            "score_breakdown": {
+                "skill_score": 0.0,
+                "experience_score": 100,
+                "education_score": 50,
+                "semantic_score": 29.45
+            },
+            "processed_at": "2026-07-30 15:47:29.339591",
+            "normalized_score": 14.54,
+            "masked_profile": {},
+            "fair_score": 17.67,
+            "rank": 5,
+            "status": "Rejected",
+            "interview_summary": {
+                "candidate_id": "sample_resume_1.pdf",
+                "overall_score": 39.86,
+                "decision": "Consider",
+                "summary": {
+                    "strengths": [
+                        "Shows teamwork orientation"
+                    ],
+                    "weaknesses": [
+                        "Weak response in Q1",
+                        "Poor communication clarity"
+                    ],
+                    "risks": [
+                        "Low confidence detected"
+                    ],
+                    "inconsistencies": [],
+                    "cultural_fit": "Good"
+                },
+                "natural_language_summary": "The candidate demonstrates Shows teamwork orientation.\nHowever, there are concerns such as Weak response in Q1, Poor communication clarity.\nRisk factors include Low confidence detected.\nCultural fit is assessed as Good.\nFinal Recommendation: Consider."
+            }
+        }
+    ]
+}

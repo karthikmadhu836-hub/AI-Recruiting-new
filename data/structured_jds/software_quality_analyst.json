@@ -1,0 +1,36 @@
+{
+  "job_id": "J464",
+  "job_title": "Software Quality Analyst",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "quality assurance", "priority": "high" },
+    { "skill_name": "sdlc", "priority": "high" },
+    { "skill_name": "stlc", "priority": "high" },
+    { "skill_name": "test case design", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "jira", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Manage software quality processes",
+    "Review testing documentation",
+    "Ensure SDLC/STLC compliance"
+  ],
+
+  "job_description_text": "Seeking a Software Quality Analyst with expertise in SDLC, STLC, quality assurance, and testing processes."
+}

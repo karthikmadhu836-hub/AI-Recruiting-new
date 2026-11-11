@@ -1,0 +1,38 @@
+{
+  "job_id": "J789",
+  "job_title": "Data Scientist",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 2,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "python", "priority": "high" },
+    { "skill_name": "machine learning", "priority": "high" },
+    { "skill_name": "data science", "priority": "high" },
+    { "skill_name": "sql", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "tensorflow", "priority": "low" },
+    { "skill_name": "pytorch", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Build predictive models",
+    "Perform data analysis",
+    "Develop machine learning solutions",
+    "Communicate insights to stakeholders"
+  ],
+
+  "job_description_text": "We are looking for a Data Scientist with experience in Python, Machine Learning, SQL, and Data Analytics."
+}

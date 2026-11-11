@@ -1,5 +1,6 @@
 def get_weights(role="default"):
-    
+    role = role.lower().replace(" ", "_")   # 🔥 FIX
+
     weight_config = {
         "data_analyst": {
             "skills": 0.4,
@@ -12,6 +13,12 @@ def get_weights(role="default"):
             "experience": 0.3,
             "education": 0.1,
             "semantic": 0.25
+        },
+        "quality_analyst": {   # ✅ NEW ROLE
+            "skills": 0.3,
+            "experience": 0.3,
+            "education": 0.1,
+            "semantic": 0.3
         },
         "default": {
             "skills": 0.3,

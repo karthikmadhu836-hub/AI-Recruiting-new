@@ -1,0 +1,15 @@
+{
+  "jd_1.txt": {
+    "min_score": 0.6,
+    "mandatory_skills": ["python", "sql"],
+    "min_experience": 0,
+    "location": "any"
+  },
+
+  "jd_2.txt": {
+    "min_score": 0.7,
+    "mandatory_skills": ["testing", "gmp", "laboratory"],
+    "min_experience": 1,
+    "location": "any"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "job_id": "J457",
+  "job_title": "Data Analyst",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 4
+  },
+
+  "required_skills": [
+    { "skill_name": "python", "priority": "high" },
+    { "skill_name": "sql", "priority": "high" },
+    { "skill_name": "excel", "priority": "high" },
+    { "skill_name": "power bi", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "tableau", "priority": "low" },
+    { "skill_name": "statistics", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Analyze business data",
+    "Create dashboards and reports",
+    "Perform data cleaning and transformation",
+    "Generate actionable insights"
+  ],
+
+  "job_description_text": "We are looking for a Data Analyst with experience in Python, SQL, Excel, and Power BI to analyze data and build dashboards for business decision-making."
+}

@@ -1,15 +1,9 @@
-import sys
-import os
-
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
-from parsers.resume_reader import extract_resume
-from parsers.education_parser import parse_education
+from parsers.education_parser import extract_education
 
 def test_education_parser():
-    text = extract_resume("data/sample_resume.docx")
+    text = "B.Tech Computer Science 2021"
 
-    edu = parse_education(text)
+    result = extract_education(text)
 
-    assert "degree" in edu
-    assert "certifications" in edu
+    assert len(result) > 0
+    assert result[0]["degree"] == "B.Tech"

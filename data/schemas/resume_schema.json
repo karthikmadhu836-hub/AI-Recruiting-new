@@ -1,10 +1,59 @@
 {
-  "candidate_id": "C001",
-  "name": "John Doe",
+  "candidate_id": "C123",
+  "personal_info": {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "+91-9876543210",
+    "location": "Bangalore, India"
+  },
+  "summary": "Software developer with 3 years of experience in web development.",
   "skills": [
-    {"name": "Python", "level": "Advanced"}
+    {
+      "skill_name": "Python",
+      "category": "Programming",
+      "confidence": 0.95
+    },
+    {
+      "skill_name": "Django",
+      "category": "Framework",
+      "confidence": 0.90
+    }
   ],
-  "education": [],
-  "experience": [],
-  "certifications": []
+  "experience": [
+    {
+      "company": "ABC Tech",
+      "role": "Software Developer",
+      "start_date": "2021-06",
+      "end_date": "2024-05",
+      "duration_years": 3,
+      "responsibilities": [
+        "Developed REST APIs",
+        "Worked on backend systems"
+      ],
+      "skills_used": ["Python", "Django"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "institution": "XYZ University",
+      "year_of_completion": 2021
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer",
+      "issuer": "Amazon",
+      "year": 2023
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "E-commerce Website",
+      "description": "Built full-stack application",
+      "technologies": ["React", "Node.js"]
+    }
+  ],
+  "total_experience_years": 3
 }

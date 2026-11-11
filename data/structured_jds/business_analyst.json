@@ -1,0 +1,37 @@
+{
+  "job_id": "J790",
+  "job_title": "Business Analyst",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 4
+  },
+
+  "required_skills": [
+    { "skill_name": "excel", "priority": "high" },
+    { "skill_name": "sql", "priority": "high" },
+    { "skill_name": "power bi", "priority": "high" },
+    { "skill_name": "data analysis", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "tableau", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "any"
+  },
+
+  "responsibilities": [
+    "Gather business requirements",
+    "Analyze datasets",
+    "Create dashboards and reports",
+    "Support decision making"
+  ],
+
+  "job_description_text": "Looking for a Business Analyst with strong Excel, SQL, Power BI, and analytical skills."
+}

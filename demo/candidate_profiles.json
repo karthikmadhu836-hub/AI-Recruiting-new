@@ -1,0 +1,20 @@
+[
+    {
+        "candidate_id": "C001",
+        "level": "Strong",
+        "expected_decision": "Selected",
+        "expected_score": 85
+    },
+    {
+        "candidate_id": "C002",
+        "level": "Average",
+        "expected_decision": "Hold / Review",
+        "expected_score": 68
+    },
+    {
+        "candidate_id": "C003",
+        "level": "Weak",
+        "expected_decision": "Rejected",
+        "expected_score": 45
+    }
+]

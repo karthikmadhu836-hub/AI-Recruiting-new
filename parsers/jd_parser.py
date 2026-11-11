@@ -1,71 +1,333 @@
 import re
-import os
-from utils.logger import get_logger
 
-logger = get_logger()
+# --------------------------------------------------
+# MASTER SKILL DATABASE
+# --------------------------------------------------
 
-# ----------- Skill List (expand later) -----------
-SKILLS_DB = [
-    "python", "java", "sql", "machine learning", "data analysis",
-    "excel", "power bi", "communication", "leadership"
+SKILL_DB = {
+
+    # Programming
+    "python":["python"],
+    "java":["java"],
+    "c":["c"],
+    "c++":["c++","cpp"],
+    "c#":["c#"],
+    "javascript":["javascript","js"],
+    "typescript":["typescript"],
+
+    # Database
+    "sql":["sql"],
+    "mysql":["mysql"],
+    "postgresql":["postgresql","postgres"],
+    "mongodb":["mongodb"],
+
+    # AI
+    "machine learning":["machine learning","ml"],
+    "deep learning":["deep learning"],
+    "artificial intelligence":["artificial intelligence","ai"],
+    "data analysis":["data analysis"],
+    "statistics":["statistics"],
+    "excel":["excel","microsoft excel"],
+    "power bi":["power bi"],
+    "tableau":["tableau"],
+
+    # Cloud
+    "aws":["aws"],
+    "azure":["azure"],
+    "gcp":["google cloud","gcp"],
+
+    # QA / QC
+    "quality control":["quality control","qc"],
+    "quality assurance":["quality assurance","qa"],
+    "quality management":["quality management"],
+    "inspection":["inspection"],
+    "testing":["testing"],
+    "sampling":["sampling"],
+    "root cause analysis":["root cause analysis","rca"],
+    "corrective action":["corrective action","capa"],
+    "preventive action":["preventive action"],
+    "iso 9001":["iso 9001"],
+    "gmp":["gmp"],
+    "glp":["glp"],
+    "documentation":["documentation"],
+    "compliance":["compliance"],
+    "auditing":["audit","auditing"],
+    "risk management":["risk management"],
+    "analytical skills":["analytical","analytical skills"],
+    "attention to detail":["attention to detail"],
+    "communication":["communication"],
+    "teamwork":["team player","teamwork"],
+    "process improvement":["process improvement"],
+    "six sigma":["six sigma"],
+    "lean":["lean"],
+    "spc":["spc"],
+
+    # Business
+    "business analysis":["business analysis"],
+    "agile":["agile"],
+    "scrum":["scrum"],
+    "jira":["jira"]
+}
+
+# --------------------------------------------------
+# ROLE DATABASE
+# --------------------------------------------------
+
+ROLE_DB = [
+
+    "quality control analyst",
+    "quality analyst",
+    "quality assurance analyst",
+    "quality engineer",
+    "quality control engineer",
+
+    "data analyst",
+    "business analyst",
+
+    "software engineer",
+    "software developer",
+    "backend developer",
+    "frontend developer",
+    "full stack developer",
+
+    "machine learning engineer",
+    "data scientist",
+
+    "project manager",
+    "manager",
+    "consultant",
+    "intern"
 ]
 
-# ----------- Normalize Text -----------
+# --------------------------------------------------
+# CLEAN TEXT
+# --------------------------------------------------
+
 def clean_text(text):
+
+    if not text:
+        return ""
+
     text = text.lower()
-    text = re.sub(r'\n+', '\n', text)
-    text = re.sub(r'[^a-zA-Z0-9\s\n]', '', text)
-    return text
 
-# ----------- Extract Skills -----------
+    text = re.sub(r'[^a-z0-9+#.,/\-\s]', ' ', text)
+
+    text = re.sub(r'\s+', ' ', text)
+
+    return text.strip()
+
+# --------------------------------------------------
+# SKILL EXTRACTION
+# --------------------------------------------------
+
 def extract_skills(text):
-    found_skills = []
-    for skill in SKILLS_DB:
-        if skill in text:
-            found_skills.append(skill)
-    return list(set(found_skills))
 
-# ----------- Extract Experience -----------
+    skills=[]
+
+    for skill,variants in SKILL_DB.items():
+
+        for variant in variants:
+
+            pattern=rf"\b{re.escape(variant)}\b"
+
+            if re.search(pattern,text):
+
+                skills.append(skill)
+
+                break
+
+    return sorted(list(set(skills)))
+
+# --------------------------------------------------
+# JOB TITLE
+# --------------------------------------------------
+
+def extract_role(text):
+
+    for role in ROLE_DB:
+
+        if role in text:
+
+            return role
+
+    return "unknown"
+
+# --------------------------------------------------
+# EXPERIENCE
+# --------------------------------------------------
+
 def extract_experience(text):
-    match = re.findall(r'(\d+)\+?\s*years', text)
-    if match:
-        return max([int(x) for x in match])
+
+    matches=re.findall(
+
+        r'(\d+)\+?\s*(?:years|year|yrs|yr)',
+
+        text
+
+    )
+
+    if matches:
+
+        return max([int(x) for x in matches])
+
     return 0
 
-# ----------- Extract Role -----------
-def extract_role(text):
-    lines = text.split("\n")
-    for line in lines:
-        if "engineer" in line or "analyst" in line or "developer" in line:
-            return line.strip()
-    return "Not Found"
+# --------------------------------------------------
+# EDUCATION
+# --------------------------------------------------
 
-# ----------- Extract Education -----------
 def extract_education(text):
-    if "b.tech" in text or "bachelor" in text:
-        return "Bachelor"
-    if "m.tech" in text or "master" in text:
-        return "Master"
+
+    education=[]
+
+    mapping={
+
+        "phd":"PhD",
+
+        "doctorate":"PhD",
+
+        "m.tech":"M.Tech",
+
+        "mtech":"M.Tech",
+
+        "b.tech":"B.Tech",
+
+        "btech":"B.Tech",
+
+        "mba":"MBA",
+
+        "mca":"MCA",
+
+        "bca":"BCA",
+
+        "msc":"M.Sc",
+
+        "bsc":"B.Sc",
+
+        "be":"B.E"
+
+    }
+
+    for key,value in mapping.items():
+
+        if key in text:
+
+            education.append(value)
+
+    return list(set(education))
+
+# --------------------------------------------------
+# CERTIFICATIONS
+# --------------------------------------------------
+
+def extract_certifications(text):
+
+    certs=[]
+
+    possible=[
+
+        "six sigma",
+
+        "iso 9001",
+
+        "aws",
+
+        "azure",
+
+        "gcp",
+
+        "pmp",
+
+        "scrum master"
+
+    ]
+
+    for cert in possible:
+
+        if cert in text:
+
+            certs.append(cert)
+
+    return certs
+
+# --------------------------------------------------
+# LOCATION
+# --------------------------------------------------
+
+def extract_location(text):
+
+    match=re.search(
+
+        r'location\s*[:\-]\s*([a-zA-Z ]+)',
+
+        text
+
+    )
+
+    if match:
+
+        return match.group(1).strip()
+
     return "Not Specified"
 
-# ----------- Main Parser -----------
-def parse_jd(file_path):
-    try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            raw_text = f.read()
+# --------------------------------------------------
+# EMPLOYMENT TYPE
+# --------------------------------------------------
 
-        cleaned = clean_text(raw_text)
+def extract_employment_type(text):
 
-        jd_data = {
-            "job_title": extract_role(cleaned),
-            "skills": extract_skills(cleaned),
-            "experience_required": extract_experience(cleaned),
-            "education": extract_education(cleaned)
-        }
+    types=[
 
-        logger.info(f"Parsed JD: {file_path}")
-        return jd_data
+        "full time",
 
-    except Exception as e:
-        logger.error(f"Error parsing JD: {e}")
-        return {}
+        "part time",
+
+        "contract",
+
+        "internship",
+
+        "temporary",
+
+        "remote",
+
+        "hybrid"
+
+    ]
+
+    for t in types:
+
+        if t in text:
+
+            return t
+
+    return "Not Specified"
+
+# --------------------------------------------------
+# MAIN PARSER
+# --------------------------------------------------
+
+def parse_job_description(jd_text):
+
+    cleaned=clean_text(jd_text)
+
+    return{
+
+        "job_title":extract_role(cleaned),
+
+        "required_skills":extract_skills(cleaned),
+
+        "min_experience_years":extract_experience(cleaned),
+
+        "education_required":extract_education(cleaned),
+
+        "certifications":extract_certifications(cleaned),
+
+        "employment_type":extract_employment_type(cleaned),
+
+        "location":extract_location(cleaned),
+
+        "job_description_text":jd_text,
+
+        "cleaned_text":cleaned
+    }
+

@@ -1,0 +1,36 @@
+{
+    "introduction": {
+        "description": "Communication and confidence",
+        "weight": 10
+    },
+
+    "education": {
+        "description": "Academic background",
+        "weight": 15
+    },
+
+    "experience": {
+        "description": "Professional experience",
+        "weight": 20
+    },
+
+    "skills": {
+        "description": "Technical skills",
+        "weight": 25
+    },
+
+    "location": {
+        "description": "Location flexibility",
+        "weight": 10
+    },
+
+    "salary": {
+        "description": "Compensation fit",
+        "weight": 10
+    },
+
+    "notice_period": {
+        "description": "Joining availability",
+        "weight": 10
+    }
+}

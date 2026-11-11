@@ -1,20 +1,69 @@
-1. Quality Control Analyst
-Job Summary
-The Quality Control Analyst is responsible for performing laboratory testing of raw
-materials, in-process samples, and finished products to ensure compliance with quality
-standards and regulatory guidelines.
-Key Responsibilities
-• Perform chemical and/or microbiological testing as per SOPs
-• Analyze raw materials, intermediates, and finished products
-• Operate analytical instruments (HPLC, GC, UV, FTIR)
-• Record and review test data accurately
-• Follow Good Manufacturing Practices (GMP) and Good Laboratory Practices (GLP)
-• Report deviations, out-of-specification (OOS) results
-• Assist in method validation and stability studies
-Qualifications
-• B.Sc / M.Sc in Chemistry, Microbiology, Biotechnology, or related field
-Skills Required
-• Analytical and problem-solving skills
-• Knowledge of laboratory instruments
-• Attention to detail
-• Basic understanding of GMP/GLP
+Job Title: Quality Control Analyst
+
+Company: ABC Pharmaceuticals Pvt. Ltd.
+
+Location: Bangalore, Karnataka
+
+Employment Type: Full-Time
+
+Department: Quality Assurance / Quality Control
+
+Experience Required: 2 Years
+
+Education:
+Bachelor's Degree in Chemistry, Microbiology, Biotechnology, Pharmaceutical Sciences, Life Sciences, or a related discipline.
+
+Required Skills:
+Quality Control
+Quality Assurance
+Good Manufacturing Practices (GMP)
+Good Documentation Practices (GDP)
+Good Laboratory Practices (GLP)
+Laboratory Testing
+Documentation
+Compliance
+CAPA
+Root Cause Analysis
+SOP
+Validation
+Calibration
+MS Excel
+Communication
+Attention to Detail
+
+Preferred Skills:
+ISO 9001
+ISO 13485
+FDA Regulations
+ICH Guidelines
+Analytical Testing
+HPLC
+GC
+MS Office
+Teamwork
+Problem Solving
+
+Responsibilities:
+
+- Perform quality control testing on raw materials, in-process samples and finished products.
+- Maintain accurate laboratory documentation.
+- Follow GMP, GLP and GDP guidelines.
+- Ensure compliance with company SOPs and regulatory standards.
+- Conduct root cause analysis for quality deviations.
+- Participate in CAPA implementation.
+- Review analytical reports.
+- Maintain calibration records.
+- Assist internal and external quality audits.
+- Prepare quality documentation and reports.
+- Work with production and quality assurance teams.
+- Ensure all products meet regulatory quality standards.
+
+Minimum Experience:
+2 Years
+
+Certifications:
+Certified Quality Analyst (Preferred)
+ISO 9001 Internal Auditor Certification (Preferred)
+
+Keywords:
+Quality Control, Quality Assurance, GMP, GLP, GDP, SOP, CAPA, Validation, Calibration, Compliance, Documentation, HPLC, GC, Laboratory Testing, MS Excel, Communication

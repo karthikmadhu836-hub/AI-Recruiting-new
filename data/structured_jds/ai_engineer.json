@@ -1,0 +1,39 @@
+{
+  "job_id": "J459",
+  "job_title": "AI Engineer",
+  "company": "TechCorp",
+  "location": "Remote",
+  "employment_type": "Full-time",
+
+  "experience_required": {
+    "min_years": 1,
+    "max_years": 5
+  },
+
+  "required_skills": [
+    { "skill_name": "python", "priority": "high" },
+    { "skill_name": "machine learning", "priority": "high" },
+    { "skill_name": "deep learning", "priority": "high" },
+    { "skill_name": "nlp", "priority": "medium" }
+  ],
+
+  "preferred_skills": [
+    { "skill_name": "tensorflow", "priority": "low" },
+    { "skill_name": "pytorch", "priority": "low" },
+    { "skill_name": "generative ai", "priority": "low" }
+  ],
+
+  "education_required": {
+    "degree": "btech",
+    "field": "computer science"
+  },
+
+  "responsibilities": [
+    "Develop machine learning models",
+    "Build NLP and AI solutions",
+    "Train and evaluate AI systems",
+    "Deploy AI applications"
+  ],
+
+  "job_description_text": "We are looking for an AI Engineer with experience in Machine Learning, Deep Learning, NLP, TensorFlow, and PyTorch to build intelligent AI solutions."
+}

@@ -3,7 +3,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from parsers.resume_reader import extract_resume
+from parsers.resume_extractor import extract_resume
 from parsers.save_output import save_text
 
 def test_resume_extraction():
